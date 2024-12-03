@@ -1,0 +1,399 @@
+first_name,last_name_x,hba1c_start,hba1c_end,hba1c_change,medicine_name,trial_dosage,patient_id,gender,last_name_y,city,state,zip_code,country,birthdate,height,weight,bmi,street_no,street_name,phone_num,email_id
+Veronika,Jindrov,7.63,7.2,0.4299999999999997,auralin,41u - 48u,225,Female,Jindrov,Brattleboro,VT,5301.0,United States,1981-01-15,171.4,62,31.3,3641.0,Selah Way,802-614-0812,VeronikaJindrova@jourrapide.com
+Elliot,Richardson,7.56,7.09,0.4699999999999997,novodra,40u - 45u,94,Male,Richardson,Sunrise,FL,33323.0,United States,1973-01-14,168.1,71,23.4,4230.0,Ridenour Street,786-234-0038,ElliotRichardson@teleworm.us
+Yukitaka,Takenaka,7.68,7.25,0.4299999999999997,novodra,39u - 36u,64,Male,Takenaka,San Diego,CA,92103.0,United States,1944-11-24,193.2,72,26.2,1975.0,Holden Street,619-299-1495,YukitakaTakenaka@einrot.com
+Skye,Gormanston,7.97,7.62,0.3499999999999996,auralin,33u - 36u,242,Female,Gormanston,Arlington,TN,38002.0,United States,1934-01-20,139.7,60,27.3,936.0,Lightning Point Drive,901-484-5225,SkyeGormanston@dayrep.com
+Alissa,Montez,7.78,7.46,0.3200000000000003,novodra,33u - 29u,57,Female,Montez,Eatonton,GA,31024.0,United States,1951-01-08,133.8,61,25.3,1435.0,Limer Street,+1 (706) 497-0891,AlissaMontezFranco@gustr.com
+Jasmine,Sykes,7.56,7.18,0.3799999999999999,novodra,42u - 44u,490,Female,Sykes,Lafayette,CA,94549.0,United States,1988-12-01,187.2,63,33.2,2607.0,Water Street,925-283-5425,JasmineSykes@jourrapide.com
+Sophia,Haugen,7.65,7.27,0.3800000000000008,auralin,37u - 42u,345,Female,Haugen,Atlanta,GA,30303.0,United States,1939-06-04,181.1,63,32.1,4178.0,Despard Street,404-713-3641,SophiaHaugen@dayrep.com
+Eddie,Archer,7.89,7.55,0.3399999999999998,auralin,31u - 38u,276,Male,Archer,Lombard,IL,60148.0,United States,1982-07-17,158.6,69,23.4,2043.0,Jadewood Drive,+1 (224) 305-6805,EddieAArcher@gustr.com
+Saber,Mnard,8.08,7.7,0.3799999999999999,novodra,54u - 54u,349,Male,Mnard,New Glarus,WI,53574.0,United States,1935-10-02,197.1,69,29.1,1424.0,Primrose Lane,+1 (608) 527-1021,SaberMenard@rhyta.com
+Asia,Woniak,7.76,7.37,0.3899999999999997,auralin,30u - 36u,15,Female,Woniak,Tulsa,OK,74105.0,United States,1997-08-15,112.0,65,18.6,4970.0,Heather Sees Way,918-712-3469,AsiaWozniak@rhyta.com
+Joseph,Day,7.7,7.19,0.5099999999999998,auralin,29u - 36u,28,Male,Tucker,Venice,LA,70091.0,United States,1959-04-10,175.8,72,23.8,4982.0,Wood Street,985-814-7603,JosephNTucker@rhyta.com
+Joseph,Day,7.7,7.19,0.5099999999999998,auralin,29u - 36u,70,Male,Day,Lombard,IL,60148.0,United States,1986-02-23,150.6,68,22.9,1821.0,Virginia Street,+1 (773) 615-9328,JosephMDay@teleworm.us
+Joseph,Day,7.7,7.19,0.5099999999999998,auralin,29u - 36u,28,Male,Tucker,Venice,LA,70091.0,United States,1959-04-10,175.8,72,23.8,4982.0,Wood Street,985-814-7603,JosephNTucker@rhyta.com
+Joseph,Day,7.7,7.19,0.5099999999999998,auralin,29u - 36u,70,Male,Day,Lombard,IL,60148.0,United States,1986-02-23,150.6,68,22.9,1821.0,Virginia Street,+1 (773) 615-9328,JosephMDay@teleworm.us
+Joseph,Tucker,7.67,7.3,0.3700000000000001,auralin,48u - 56u,28,Male,Tucker,Venice,LA,70091.0,United States,1959-04-10,175.8,72,23.8,4982.0,Wood Street,985-814-7603,JosephNTucker@rhyta.com
+Joseph,Tucker,7.67,7.3,0.3700000000000001,auralin,48u - 56u,70,Male,Day,Lombard,IL,60148.0,United States,1986-02-23,150.6,68,22.9,1821.0,Virginia Street,+1 (773) 615-9328,JosephMDay@teleworm.us
+Kristiina,Hyypi,7.87,7.49,0.3799999999999999,novodra,36u - 38u,430,Female,Hyypi,Grand Forks,MN,58203.0,United States,1922-05-02,152.1,65,25.3,206.0,Eagle Lane,218-773-9682,KristiinaHyypia@cuvox.de
+Roxanne,Andreyeva,9.54,9.14,0.3999999999999986,auralin,29u - 38u,18,Female,Andreyeva,Smyrna,GA,30082.0,United States,1922-07-24,129.1,60,25.2,2103.0,Edington Drive,678-829-8578,RoxanneAndreyeva@armyspy.com
+Gregor,Bole,7.61,7.16,0.4500000000000002,novodra,47u - 45u,26,Male,Bole,Albuquerque,NM,87109.0,United States,1922-06-19,180.8,67,28.3,922.0,Chapmans Lane,505-828-4955,GregorBole@gustr.com
+Simone,Baumgaertner,7.74,7.3,0.4400000000000004,auralin,27u - 37u,424,Female,Baumgaertner,Colorado Springs,CO,80904.0,United States,1931-05-14,125.2,59,25.3,510.0,Berry Street,719-661-6624,SimoneBaumgaertner@teleworm.us
+Enco,ibrik,7.78,7.34,0.4400000000000004,auralin,55u - 68u,292,Male,ibrik,Camden Wyoming,DE,19934.0,United States,1983-01-25,203.9,74,26.2,4792.0,Maud Street,302-698-2057,EncoZibrik@superrito.com
+Camilla,Zaitseva,7.53,7.13,0.4000000000000003,auralin,28u - 37u,211,Female,Zaitseva,Wooster,OH,44691.0,United States,1938-11-26,48.8,63,19.1,4689.0,Briarhill Lane,330-202-2145,CamillaZaitseva@superrito.com
+Gina,Cain,7.88,7.4,0.4799999999999995,novodra,36u - 36u,95,Female,Cain,Miami,FL,33106.0,United States,1935-07-14,144.1,60,28.1,3418.0,Tyler Avenue,305-361-8416,GinaACain@armyspy.com
+Addolorata,Lombardi,7.75,7.33,0.4199999999999999,novodra,49u - 46u,306,Female,Lombardi,Binghamton,NY,13901.0,United States,1962-10-19,189.0,65,31.4,550.0,Cliffside Drive,+1 (607) 348-5625,AddolorataLombardi@jourrapide.com
+Khalid,Johnsrud,8.35,7.94,0.4099999999999992,novodra,54u - 54u,240,Male,Johnsrud,Gulfport,MS,39501.0,United States,1930-01-28,214.5,69,31.7,1147.0,Kelley Road,228-378-1355,KhalidJohnsrud@teleworm.us
+Mile,Stani,7.66,7.24,0.4199999999999999,novodra,47u - 48u,145,Male,Stani,Fort Wayne,IN,46804.0,United States,1961-10-31,244.9,71,34.2,4640.0,Windy Ridge Road,260-591-5755,MileStanic@dayrep.com
+Tekla,Walczak,7.61,7.29,0.3200000000000003,auralin,29u - 39u,133,Female,Walczak,Lake Ariel,PA,18436.0,United States,1936-07-22,159.9,59,32.3,2421.0,Coal Road,570-698-4203,TeklaWalczak@einrot.com
+Brancaleone,Russo,8.61,8.18,0.4299999999999997,auralin,53u - 60u,316,Male,Russo,San Antonio,TX,78217.0,United States,1997-06-20,211.9,74,27.2,2074.0,Parrish Avenue,+1 (830) 851-4280,BrancaleoneRusso@jourrapide.com
+Chiemela,Tobeolisa,7.59,7.17,0.4199999999999999,novodra,43u - 47u,358,Female,Tobeolisa,Bellefontaine,OH,43311.0,United States,1965-06-07,187.9,69,27.7,2881.0,Harter Street,937-592-9410,ChiemelaTobeolisa@rhyta.com
+Isac,Berg,9.68,9.29,0.3900000000000005,auralin,31u - 41u,101,Male,Berg,Binford,ND,58416.0,United States,1995-08-01,137.9,66,22.3,1497.0,Hidden Meadow Drive,701-676-6301,IsacBerg@cuvox.de
+Benot,Bonami,9.82,9.4,0.4199999999999999,novodra,44u - 43u,319,Male,Bonami,Garden City,NY,11530.0,United States,1975-04-13,162.8,70,23.4,230.0,Lady Bug Drive,1 718 954 8136,BenoitBonami@gustr.com
+Suhaim,Rahal,7.94,7.5,0.4400000000000004,novodra,49u - 47u,184,Male,Rahal,Fontana,CA,92335.0,United States,1944-02-08,207.7,71,29.0,2270.0,Bel Meadow Drive,909-355-9418,SuhaimAbdelRahal@fleckens.hu
+Mizuki,Iwata,7.7,7.23,0.4699999999999997,novodra,45u - 46u,43,Female,Iwata,West Palm Beach,FL,33409.0,United States,1927-06-30,199.1,61,37.6,3434.0,Holt Street,561-357-0702,MizukiIwata@gustr.com
+Clinton,Miller,7.79,7.4,0.3899999999999997,auralin,42u - 51u,451,Male,Miller,Roslyn,NY,11576.0,United States,1985-08-16,195.4,74,25.1,901.0,Southern Street,516-626-8021,ClintonKMiller@rhyta.com
+Eugene,Mironov,7.81,7.48,0.3299999999999992,auralin,42u - 49u,335,Male,Mironov,Bartlett,IL,60103.0,United States,1963-01-11,195.8,65,32.6,1840.0,Millbrook Road,630-837-9473,EugeneMironov@dayrep.com
+Szilveszter,Totth,7.7,7.38,0.3200000000000003,auralin,35u - 39u,389,Male,Totth,Shreveport,LA,71109.0,United States,1990-08-14,145.2,71,20.2,2785.0,Norma Lane,318-621-7385,TotthSzilveszter@jourrapide.com
+Bao,She,9.09,8.62,0.4700000000000006,novodra,48u - 45u,435,Female,She,Anaheim,CA,92801.0,United States,1931-01-29,193.8,63,34.3,1956.0,Rosemont Avenue,+1 (323) 209-0527,BaoShe@rhyta.com
+Laura,Ehrlichmann,7.95,7.46,0.4900000000000002,novodra,43u - 40u,228,Female,Ehrlichmann,Omaha,NE,68124.0,United States,1942-01-03,187.9,60,36.7,1829.0,Bungalow Road,402-938-2157,LauraEhrlichmann@einrot.com
+Cannan,Cabrera,7.94,7.58,0.3600000000000003,novodra,40u - 31u,462,Male,Cabrera,New York,NY,10014.0,United States,1980-10-12,209.7,71,29.2,2102.0,Geraldine Lane,646-289-4177,CannanCabreraOrdonez@superrito.com
+Alexander,Mathiesen,7.96,7.55,0.4100000000000001,auralin,47u - 58u,71,Male,Mathiesen,Athens,OH,45701.0,United States,1955-12-02,195.6,68,29.7,3130.0,Jessie Street,1 740 629 5172,AlexanderEMathiesen@superrito.com
+Alexander,Mathiesen,7.96,7.55,0.4100000000000001,auralin,47u - 58u,497,Male,Hueber,Stockton,CA,95204.0,United States,1942-09-12,194.0,72,26.3,3868.0,Freed Drive,1 209 762 2320,AlexanderHueber@jourrapide.com
+Alexander,Hueber,7.71,7.35,0.3600000000000003,auralin,35u - 38u,71,Male,Mathiesen,Athens,OH,45701.0,United States,1955-12-02,195.6,68,29.7,3130.0,Jessie Street,1 740 629 5172,AlexanderEMathiesen@superrito.com
+Alexander,Hueber,7.71,7.35,0.3600000000000003,auralin,35u - 38u,497,Male,Hueber,Stockton,CA,95204.0,United States,1942-09-12,194.0,72,26.3,3868.0,Freed Drive,1 209 762 2320,AlexanderHueber@jourrapide.com
+Csaba,Sgi,7.88,7.48,0.3999999999999994,novodra,35u - 29u,222,Male,Sgi,Portland,PA,97205.0,United States,1943-01-12,181.3,70,26.0,4040.0,Linda Street,+1 (267) 932-9852,SagiCsaba@armyspy.com
+Ch,Lm,7.68,7.24,0.4399999999999995,auralin,45u - 48u,297,Female,Lm,,,,,1990-05-14,181.1,63,32.1,,,,
+Wadysaw,Wieczorek,7.92,7.47,0.4500000000000002,auralin,24u - 37u,188,Male,Wieczorek,Chicago,IL,60605.0,United States,1994-01-15,133.1,67,20.8,2338.0,Virginia Street,773-607-2647,WladyslawWieczorek@teleworm.us
+Kristjn,Ingason,7.92,7.57,0.3499999999999996,auralin,44u - 55u,282,Male,Ingason,Birmingham,AL,35203.0,United States,1986-12-01,214.1,69,31.6,677.0,Broad Street,205-494-6040,KristjanIngason@gustr.com
+Krisztina,Magyar,7.52,7.01,0.5099999999999998,novodra,32u - 27u,254,Female,Magyar,Orlando,FL,32810.0,United States,1950-05-03,117.0,64,20.1,3820.0,Terry Lane,321-287-0484,MagyarKrisztina@superrito.com
+sta,Grmsdttir,7.62,7.16,0.4599999999999999,novodra,29u - 30u,185,Female,Grmsdttir,Ormond Beach,FL,32174.0,United States,1999-06-09,128.9,65,21.4,1619.0,Melm Street,+1 (386) 989-0019,AstaGrimsdottir@dayrep.com
+Mahmud,Kadyrov,7.53,7.11,0.4199999999999999,novodra,44u - 43u,419,Male,Kadyrov,Stanton,ND,58571.0,United States,1980-06-18,215.2,79,24.2,3390.0,Hidden Meadow Drive,1 701 745 2700,MahmudKadyrov@gustr.com
+Marija,Grubii,7.53,7.15,0.3799999999999999,auralin,37u - 43u,174,Female,Grubii,Auburn Hills,MI,48057.0,United States,1985-12-28,155.1,69,22.9,954.0,Summit Park Avenue,248-944-0932,MarijaGrubisic@cuvox.de
+Jens,Poulsen,7.55,7.16,0.3899999999999997,novodra,36u - 32u,213,Male,Poulsen,Charlotte,NC,28202.0,United States,1963-12-09,168.1,71,23.4,1942.0,Harry Place,704-805-5094,JensPoulsen@fleckens.hu
+Sauli,Koivuniemi,7.67,7.37,0.2999999999999998,auralin,43u - 47u,146,Male,Koivuniemi,Eagleville,PA,19403.0,United States,1974-07-24,170.9,66,27.6,1990.0,Spring Avenue,+1 (267) 679-4137,SauliKoivuniemi@einrot.com
+Zdenk,Synek,7.67,7.32,0.3499999999999996,novodra,31u - 31u,200,Male,Synek,Dora,AL,35062.0,United States,1950-09-27,168.3,70,24.1,3818.0,Strother Street,1 205 648 4197,ZdenekSynek@jourrapide.com
+Mariana,Souza,7.86,7.51,0.3500000000000005,auralin,36u - 42u,35,Female,Souza,Orrington,ME,4474.0,United States,1948-03-06,152.9,63,27.1,577.0,Chipmunk Lane,207-825-8634,MarianaGomesSouza@superrito.com
+Jad Allah,Gaber,7.97,7.52,0.4500000000000002,novodra,38u - 41u,334,Male,Gaber,Monroeville,IN,46773.0,United States,1926-05-14,174.2,69,25.7,2704.0,Windy Ridge Road,1 260 623 1176,JadAllahSayyarGaber@rhyta.com
+Zak,Kelly,7.66,7.26,0.4000000000000003,novodra,38u - 38u,20,Male,Kelly,Oroville,CA,95966.0,United States,1988-12-13,208.8,70,30.0,994.0,Hill Croft Farm Road,1 530 532 8397,ZakKelly@rhyta.com
+Jackson,Addison,7.99,7.51,0.4800000000000004,novodra,42u - 42u,491,Male,Addison,New Rochelle,NY,10801.0,United States,1953-05-29,192.7,69,28.5,1160.0,Taylor Street,914-636-9304,JacksonAddison@armyspy.com
+Albinca,Komavec,7.89,7.46,0.4299999999999997,novodra,41u - 39u,38,Female,Komavec,Huron,SD,57350.0,United States,1986-06-05,189.9,66,30.6,1257.0,Elsie Drive,+1 (605) 204-6572,AlbincaKomavec@rhyta.com
+Kristoffer,Martinsen,9.18,8.64,0.5399999999999991,auralin,29u - 37u,350,Male,Martinsen,Packwood,WA,98361.0,United States,1964-12-06,161.5,73,21.3,1865.0,Honeysuckle Lane,360-494-5489,KristofferMartinsen@dayrep.com
+M,Quynh,7.61,7.16,0.4500000000000002,auralin,57u - 64u,220,Male,Quynh,,,,,1978-04-09,237.8,69,35.1,,,,
+Nasser,Mansour,7.51,7.06,0.4500000000000002,novodra,33u - 31u,481,Male,Mansour,San Antonio,TX,78212.0,United States,1938-03-25,183.5,66,29.6,547.0,Weekley Street,1 210 326 5509,NasserMazinMansour@fleckens.hu
+Oles,Zhdanov,7.52,7.11,0.4099999999999992,auralin,54u - 67u,102,Male,Zhdanov,Fordland,MO,65652.0,United States,1945-10-25,226.2,72,30.7,1731.0,Chandler Drive,417-738-5084,OlesZhdanov@fleckens.hu
+Triana,Terrazas,7.71,7.34,0.3700000000000001,auralin,34u - 42u,181,Female,Terrazas,Monroe,LA,71201.0,United States,1968-03-04,176.2,66,28.4,1934.0,August Lane,318-417-5739,TrianaTerrazasMoreno@superrito.com
+Juliusz,Majewski,7.78,7.31,0.4700000000000006,novodra,41u - 39u,478,Male,Majewski,Florence,SC,29501.0,United States,1966-09-29,212.1,69,31.3,4435.0,Poe Road,+1 (843) 212-6421,JuliuszMajewski@superrito.com
+Klementyna,Sokoowska,7.98,7.53,0.4500000000000002,novodra,42u - 41u,273,Female,Sokoowska,Dayton,OH,45402.0,United States,1955-03-06,168.7,60,32.9,202.0,Ingram Street,+1 (937) 518-7238,KlementynaSokolowska@superrito.com
+Gabry,Tomaszewski,7.87,7.47,0.4000000000000003,auralin,29u - 37u,466,Male,Tomaszewski,Hillsboro,TX,76645.0,United States,1998-09-16,160.8,67,25.2,1343.0,Clair Street,254-582-1795,GabrysTomaszewski@armyspy.com
+Leixandre,Alanis,7.74,7.32,0.4199999999999999,auralin,61u - 67u,205,Male,Alanis,Oklahoma City,OK,73102.0,United States,1938-03-25,222.6,69,32.9,4103.0,Musgrave Street,405-234-5350,LeixandreAlanisMadrigal@fleckens.hu
+Onyekachukwu,Obinna,7.58,7.12,0.4599999999999999,auralin,37u - 46u,302,Female,Obinna,New York,NY,10004.0,United States,1997-01-24,154.7,65,25.7,2970.0,Forest Avenue,646-982-6609,OnyekachukwuObinna@teleworm.us
+Mijndert,Ouwendijk,7.81,7.5,0.3099999999999996,auralin,30u - 39u,307,Male,Ouwendijk,Palmyra,NE,68418.0,United States,1992-07-05,124.1,67,19.4,4839.0,North Avenue,402-780-5724,MijndertOuwendijk@jourrapide.com
+Hanka,Gegi,7.67,7.29,0.3799999999999999,novodra,19u - 27u,75,Female,Gegi,Tulsa,OK,74106.0,United States,1926-01-20,103.2,61,19.5,192.0,Patton Lane,918-975-7594,HankaGegic@fleckens.hu
+Coralie,Allaire,7.63,7.3,0.33,auralin,39u - 46u,160,Female,Allaire,Sylva,NC,28779.0,United States,1925-03-04,149.4,66,24.1,1066.0,Goosetown Drive,+1 (828) 586-5050,CoralieAllaire@armyspy.com
+Cumeln,Miramontes,7.71,7.33,0.3799999999999999,auralin,24u - 32u,378,Female,Miramontes,Tolono,IL,61880.0,United States,1936-01-30,130.0,66,21.0,4213.0,Isaacs Creek Road,217-485-5673,CumelenMiramontesAcosta@gustr.com
+Elisabeth,Dimmen,7.6,7.28,0.3199999999999994,novodra,41u - 36u,134,Female,Dimmen,Columbia,SC,29210.0,United States,1985-04-21,199.5,65,33.2,3180.0,Still Pastures Drive,+1 (803) 465-3312,ElisabethDimmen@cuvox.de
+Elisabeth,Dimmen,7.6,7.28,0.3199999999999994,novodra,41u - 36u,231,Female,Knudsen,,,,,1976-09-23,165.9,63,29.4,,,,
+Louise,Johnson,7.63,7.32,0.3099999999999996,auralin,32u - 42u,55,Female,Johnson,Burlington,MA,1803.0,United States,1931-03-01,141.0,62,25.8,4984.0,Hampton Meadows,978-407-1874,LouiseJohnson@rhyta.com
+Joe,Edwards,9.35,8.89,0.4599999999999991,novodra,36u - 37u,304,Female,Edwards,Detroit,MI,48219.0,United States,1963-04-08,149.8,61,28.3,1526.0,Tully Street,1 313 589 1746,JoeVEdwards@armyspy.com
+Fatimah,Kinfe,7.88,7.56,0.3200000000000003,novodra,43u - 42u,237,Female,Kinfe,Aurora,CO,80010.0,United States,1981-01-21,199.8,62,36.5,2640.0,Sweetwood Drive,303-360-3627,FatimahKinfe@fleckens.hu
+Fatimah,Kinfe,7.88,7.56,0.3200000000000003,novodra,43u - 42u,342,Female,Khoury,Fullerton,CA,93632.0,United States,1950-01-23,120.3,67,18.8,883.0,Oakwood Circle,1 949 290 0728,FatimahAqilahKhoury@superrito.com
+Ivan,Fomin,9.12,8.73,0.3899999999999988,auralin,25u - 32u,449,Male,Fomin,Garfield Heights,OH,44128.0,United States,1930-06-10,139.9,65,23.3,632.0,Peaceful Lane,216-502-3773,IvanFomin@dayrep.com
+Tosh,Jensen,7.93,7.69,0.2399999999999993,novodra,51u - 48u,469,Male,Jensen,Argyle,MO,65001.0,United States,1969-12-19,194.7,68,29.6,1536.0,John Daniel Drive,573-728-3861,ToshCJensen@superrito.com
+Hugo,Collins,8.0,7.53,0.4699999999999997,novodra,53u - 55u,311,Male,Collins,Lenexa,KS,66219.0,United States,1932-02-03,193.6,69,28.6,3214.0,Better Street,1 913 322 9114,HugoCollins@cuvox.de
+Gabrielle,Bidwill,7.76,7.37,0.3899999999999997,novodra,44u - 49u,217,Female,Bidwill,Manhattan,NY,10016.0,United States,1963-10-11,170.1,67,26.6,3479.0,Elm Drive,646-472-4758,GabrielleBidwill@teleworm.us
+Mette,Sandgreen,7.56,7.08,0.4799999999999995,auralin,36u - 46u,256,Female,Sandgreen,Elk Lake,WI,54739.0,United States,1938-05-13,187.1,60,36.5,2324.0,Benson Street,715-231-3508,MetteSandgreen@gustr.com
+Ole,Petersen,7.95,7.55,0.4000000000000003,novodra,29u - 32u,354,Male,Petersen,Dudley,GA,31022.0,United States,1931-07-14,136.8,69,20.2,3650.0,Graystone Lakes,478-676-7058,OlePetersen@armyspy.com
+Mackenzie,Mckay,9.87,9.48,0.3899999999999988,novodra,44u - 43u,274,Female,McKay,State Line,MS,39362.0,United States,1971-03-18,214.9,66,34.7,4890.0,Devils Hill Road,601-848-3093,MackenzieMcKay@superrito.com
+Noriyuki,Sakai,7.58,7.16,0.4199999999999999,novodra,32u - 31u,321,Male,Sakai,Milwaukee,WI,53202.0,United States,1934-04-29,150.3,70,21.6,353.0,Whaley Lane,262-565-9052,NoriyukiSakai@gustr.com
+Placido,Udinesi,7.91,7.49,0.4199999999999999,novodra,38u - 41u,485,Male,Udinesi,Greensboro,NC,28716.0,United States,1934-05-31,175.8,65,29.3,1094.0,Jones Avenue,336-697-2005,PlacidoUdinesi@dayrep.com
+Julia,Werner,7.58,7.24,0.3399999999999998,auralin,35u - 40u,264,Female,Carvalho,New York,NY,10036.0,United States,1931-04-11,171.8,61,32.5,3662.0,Shinn Street,+1 (212) 782-4151,JuliaAzevedoCarvalho@superrito.com
+Julia,Werner,7.58,7.24,0.3399999999999998,auralin,35u - 40u,473,Female,Werner,Natchez,MS,39120.0,United States,1938-09-14,155.3,61,29.3,325.0,Eastland Avenue,601-446-6829,JuliaWerner@teleworm.us
+Avdei,Tikhonov,7.77,7.27,0.5,auralin,27u - 36u,60,Male,Tikhonov,Wilson,NC,27893.0,United States,1928-12-10,150.0,72,20.3,1368.0,Yorkshire Circle,1 252 291 3898,AvdeiTikhonov@gustr.com
+Hideki,Haraguchi,7.59,7.05,0.54,novodra,37u - 35u,391,Male,Haraguchi,La Grange,TX,78945.0,United States,1997-02-13,181.3,67,28.4,3995.0,Colonial Drive,979-639-7844,HidekiHaraguchi@einrot.com
+Robert,Wagner,9.84,9.52,0.3200000000000003,auralin,43u - 49u,29,Male,Wolf,Fort Washington,PA,19034.0,United States,1937-06-26,206.6,70,29.6,2386.0,Linda Street,1 267 895 7462,RobertWolf@fleckens.hu
+Robert,Wagner,9.84,9.52,0.3200000000000003,auralin,43u - 49u,366,Male,Wagner,Salem,VA,24153.0,United States,1925-06-20,200.0,67,31.3,162.0,Brooklyn Street,540-986-1369,RobertWagner@jourrapide.com
+Robert,Wagner,9.84,9.52,0.3200000000000003,auralin,43u - 49u,404,Male,Maslov,Providence,RI,2908.0,United States,1932-07-02,219.1,65,36.5,2356.0,Myra Street,401-535-2675,RobertMaslov@fleckens.hu
+Robert,Maslov,7.65,7.35,0.3000000000000007,auralin,55u - 68u,29,Male,Wolf,Fort Washington,PA,19034.0,United States,1937-06-26,206.6,70,29.6,2386.0,Linda Street,1 267 895 7462,RobertWolf@fleckens.hu
+Robert,Maslov,7.65,7.35,0.3000000000000007,auralin,55u - 68u,366,Male,Wagner,Salem,VA,24153.0,United States,1925-06-20,200.0,67,31.3,162.0,Brooklyn Street,540-986-1369,RobertWagner@jourrapide.com
+Robert,Maslov,7.65,7.35,0.3000000000000007,auralin,55u - 68u,404,Male,Maslov,Providence,RI,2908.0,United States,1932-07-02,219.1,65,36.5,2356.0,Myra Street,401-535-2675,RobertMaslov@fleckens.hu
+Maya,Isaksson,7.66,7.17,0.4900000000000002,auralin,33u - 41u,155,Female,Isaksson,Madison,WI,53711.0,United States,1959-07-14,137.7,67,21.6,1333.0,Comfort Court,1 608 277 0146,MayaIsaksson@jourrapide.com
+Else,Andersen,7.98,7.6,0.3800000000000008,novodra,36u - 38u,179,Female,Andersen,Chicago,IL,60631.0,United States,1975-06-16,197.1,65,32.8,1386.0,Farland Street,773-934-7423,ElseAndersen@rhyta.com
+Furuta,Osman,7.52,7.18,0.3399999999999998,auralin,30u - 41u,379,Female,Osman,Memphis,TN,38115.0,United States,1933-11-28,138.8,63,24.6,3300.0,Woodridge Lane,1 901 316 3780,FurutaOsman@rhyta.com
+Nilton,Quintanilla,7.86,7.48,0.3799999999999999,auralin,42u - 49u,285,Male,Quintanilla,Walpole,MA,2081.0,United States,1980-02-09,186.3,75,23.3,4038.0,Farland Street,774-219-3140,NiltonQuintanillaAlmonte@rhyta.com
+Ananas,Enrquez,7.58,7.07,0.5099999999999998,novodra,44u - 45u,443,Male,Enrquez,Garden City,NY,11530.0,United States,1959-07-23,169.0,72,22.9,2924.0,Stanley Avenue,516-512-4875,AnaniasEnriquezMontoya@armyspy.com
+Finley,Chandler,7.65,7.26,0.3900000000000005,auralin,31u - 45u,143,Male,Chandler,New York,NY,10001.0,United States,1936-10-25,150.9,70,21.6,2754.0,Westwood Avenue,516-740-5280,FinleyChandler@dayrep.com
+Yumena,Nakayama,7.76,7.35,0.4100000000000001,novodra,34u - 32u,182,Female,Nakayama,Gypsum,CO,81637.0,United States,1929-03-24,130.2,59,26.3,4458.0,Stark Hollow Road,1 970 754 5843,YumenaNakayama@gustr.com
+Stefanie,Herman,7.72,7.3,0.4199999999999999,auralin,44u - 55u,232,Female,Herman,Halifax,NC,27839.0,United States,1978-09-03,217.8,67,34.1,204.0,Rockwell Lane,1 252 583 5410,StefanieHerman@fleckens.hu
+Karen,Jakobsen,7.59,7.25,0.3399999999999998,auralin,34u - 42u,433,Female,Jakobsen,Houston,TX,77020.0,United States,1962-11-25,185.2,67,29.0,1690.0,Fannie Street,1 979 203 0438,KarenJakobsen@jourrapide.com
+Michael,Kristensen,8.51,8.08,0.4299999999999997,novodra,40u - 39u,93,Male,Smith,Mount Holly,NJ,8060.0,United States,1977-09-17,160.6,67,25.2,666.0,Whiteman Street,609-914-8473,MichaelSmith@armyspy.com
+Michael,Kristensen,8.51,8.08,0.4299999999999997,novodra,40u - 39u,482,Male,Kristensen,Tulsa,OK,74116.0,United States,1930-08-10,154.7,65,25.7,1614.0,Heather Sees Way,1 918 706 2776,MichaelKristensen@gustr.com
+Sousuke,Nakahara,7.91,7.49,0.4199999999999999,novodra,37u - 35u,459,Male,Nakahara,Reno,NV,89501.0,United States,1929-04-25,134.2,70,19.3,3743.0,Wescam Court,775-848-6970,SousukeNakahara@jourrapide.com
+Melisa,Mata,8.56,8.27,0.2900000000000009,novodra,57u - 57u,168,Female,Mata,Bedford,MA,1730.0,United States,1941-12-15,209.7,65,34.9,2775.0,Single Street,781-604-1901,MelisaMataSantacruz@rhyta.com
+Kwasi,Mensa,8.29,7.89,0.3999999999999994,novodra,40u - 36u,90,Male,Mensa,Tempe,AZ,85281.0,United States,1942-10-05,145.4,69,21.5,479.0,Elmwood Avenue,+1 (480) 967-6336,KwasiMensa@cuvox.de
+Jaakko,Eskelinen,7.73,7.42,0.3100000000000005,auralin,39u - 45u,65,Male,Eskelinen,Syracuse,NY,13221.0,United States,1971-02-26,163.7,68,24.9,4324.0,Oak Street,+1 (315) 362-5858,JaakkoEskelinen@superrito.com
+AbdulNur,Isa,7.98,7.53,0.4500000000000002,novodra,54u - 50u,12,Male,Isa,Brentwood,TN,37027.0,United States,1954-02-03,238.7,73,31.5,1092.0,Farm Meadow Drive,1 931 207 0839,Abdul-NurMummarIsa@rhyta.com
+Niels,Lange,7.58,7.21,0.3700000000000001,novodra,43u - 38u,303,Male,Lange,Hattiesburg,MS,39401.0,United States,1931-06-01,201.5,70,28.9,3683.0,Gorby Lane,601-296-7799,NielsLange@cuvox.de
+Idalia,Moore,8.34,7.9,0.4399999999999995,auralin,25u - 31u,460,Female,Moore,San Diego,CA,92073.0,United States,1993-10-26,102.1,61,19.3,4380.0,Grim Avenue,619-710-6286,IdaliaEMoore@cuvox.de
+Abel,Yonatan,7.88,7.5,0.3799999999999999,novodra,38u - 39u,259,Male,Yonatan,Burbank,CA,91502.0,United States,1952-04-29,137.9,66,22.3,2621.0,Koontz Lane,1 818 841 7660,AbelYonatan@teleworm.us
+Abel,Yonatan,7.88,7.5,0.3799999999999999,novodra,38u - 39u,333,Male,Efrem,Old Hickory,TN,37138.0,United States,1971-02-15,224.0,67,35.1,2333.0,Hidden Pond Road,1 615 755 8235,AbelEfrem@fleckens.hu
+Kai,Cunha,7.81,7.42,0.3899999999999997,novodra,37u - 36u,414,Male,Cunha,Detroit,MI,48221.0,United States,1990-02-01,163.5,74,21.0,2967.0,Prudence Street,313-341-7799,KaiOliveiraCunha@cuvox.de
+Markus,Solberg,7.95,7.57,0.3799999999999999,novodra,35u - 30u,170,Male,Solberg,Bensalem,DE,19020.0,United States,1953-11-21,140.6,70,20.2,4148.0,Callison Lane,302-474-8075,MarkusSolberg@fleckens.hu
+Bi,T,7.73,7.32,0.4100000000000001,novodra,41u - 40u,123,Male,T,Grand Rapids,MI,49503.0,United States,1929-05-30,211.0,69,31.2,2389.0,Rubaiyat Road,231-607-3625,TaHaBoi@superrito.com
+Sren,Frederiksen,7.71,7.31,0.4000000000000003,novodra,56u - 58u,16,Male,Lund,Kingsport,VA,37660.0,United States,1922-08-23,201.5,64,34.6,2438.0,Shady Pines Drive,276-225-1955,SrenFLund@gustr.com
+Sren,Frederiksen,7.71,7.31,0.4000000000000003,novodra,56u - 58u,73,Male,Frederiksen,Metairie,LA,70001.0,United States,1931-02-12,214.5,65,35.7,4852.0,Rose Avenue,504-289-1386,SrenFrederiksen@armyspy.com
+Sren,Frederiksen,7.71,7.31,0.4000000000000003,novodra,56u - 58u,189,Male,Srensen,New York,NY,10011.0,United States,1942-12-31,157.1,67,24.6,2397.0,Bell Street,1 212 201 3108,SrenSrensen@superrito.com
+Sren,Srensen,7.93,7.59,0.3399999999999998,novodra,41u - 39u,16,Male,Lund,Kingsport,VA,37660.0,United States,1922-08-23,201.5,64,34.6,2438.0,Shady Pines Drive,276-225-1955,SrenFLund@gustr.com
+Sren,Srensen,7.93,7.59,0.3399999999999998,novodra,41u - 39u,73,Male,Frederiksen,Metairie,LA,70001.0,United States,1931-02-12,214.5,65,35.7,4852.0,Rose Avenue,504-289-1386,SrenFrederiksen@armyspy.com
+Sren,Srensen,7.93,7.59,0.3399999999999998,novodra,41u - 39u,189,Male,Srensen,New York,NY,10011.0,United States,1942-12-31,157.1,67,24.6,2397.0,Bell Street,1 212 201 3108,SrenSrensen@superrito.com
+Renzo,Lucchese,7.54,7.17,0.3700000000000001,auralin,53u - 64u,315,Male,Lucchese,Branchburg,NJ,8876.0,United States,1970-02-05,212.1,69,31.3,4145.0,Fairfax Drive,908-884-4247,RenzoLucchese@dayrep.com
+Finlay,Sheppard,7.51,7.17,0.3399999999999998,novodra,31u - 30u,413,Male,Sheppard,Portland,OH,45204.0,United States,1948-06-16,161.3,70,23.1,4571.0,Walnut Hill Drive,+1 (513) 297-6359,FinlaySheppard@fleckens.hu
+Sofia,Karlsen,7.62,7.15,0.4699999999999997,novodra,35u - 29u,21,Female,Karlsen,Whitman,MA,2382.0,United States,1934-09-24,153.1,66,24.7,2931.0,Romano Street,1 781 447 1763,SofiaTKarlsen@teleworm.us
+Sofia,Karlsen,7.62,7.15,0.4699999999999997,novodra,35u - 29u,376,Female,Hermansen,Houma,LA,70360.0,United States,1957-02-27,186.8,65,31.1,2272.0,Woodland Avenue,985-580-4827,SofiaBHermansen@rhyta.com
+Sofia,Hermansen,8.9,8.57,0.33,novodra,34u - 34u,21,Female,Karlsen,Whitman,MA,2382.0,United States,1934-09-24,153.1,66,24.7,2931.0,Romano Street,1 781 447 1763,SofiaTKarlsen@teleworm.us
+Sofia,Hermansen,8.9,8.57,0.33,novodra,34u - 34u,376,Female,Hermansen,Houma,LA,70360.0,United States,1957-02-27,186.8,65,31.1,2272.0,Woodland Avenue,985-580-4827,SofiaBHermansen@rhyta.com
+Flaviano,Endrizzi,7.93,7.56,0.3700000000000001,novodra,46u - 43u,161,Male,Endrizzi,Phoenix,AZ,85023.0,United States,1928-10-11,195.1,75,24.4,3209.0,Crowfield Road,602-993-7880,FlavianoEndrizzi@cuvox.de
+Mi,Lng,7.74,7.32,0.4199999999999999,novodra,52u - 50u,204,Female,Lng,Harvester,MO,63301.0,United States,1956-02-29,192.7,60,37.6,1778.0,Rodney Street,636-442-6946,LuongHongMui@einrot.com
+Mi,Lng,7.74,7.32,0.4199999999999999,novodra,52u - 50u,323,Male,Liu,Chilton,TX,76632.0,United States,1974-07-27,218.5,66,35.3,4346.0,Sussex Court,254-546-2728,LieuThanhMuoi@teleworm.us
+Marius,Hansen,7.97,7.53,0.4399999999999995,auralin,41u - 47u,89,Male,Hansen,Augusta,GA,30902.0,United States,1948-06-27,227.7,76,27.7,3251.0,Radio Park Drive,706-755-5723,MariusHansen@teleworm.us
+Suoma,Koivunen,7.59,7.13,0.4599999999999999,novodra,26u - 25u,327,Female,Koivunen,Schenectady,NY,12303.0,United States,1927-12-27,114.0,62,20.8,2917.0,Golden Ridge Road,518-379-0603,SuomaKoivunen@gustr.com
+Mevla,Grabljevec,7.72,7.44,0.2799999999999993,novodra,51u - 55u,458,Female,Grabljevec,Fort Worth,TX,76102.0,United States,1984-12-02,215.8,66,34.8,2645.0,Moore Avenue,817-777-5289,MevlaGrabljevec@teleworm.us
+Olof,Holm,7.85,7.43,0.4199999999999999,auralin,39u - 52u,371,Male,Holm,Taunton,MA,2780.0,United States,1999-04-07,214.1,70,30.7,288.0,Smith Street,508-821-2421,OlofHolm@gustr.com
+Kari,Laatikainen,7.5,7.11,0.3899999999999997,auralin,39u - 43u,288,Male,Laatikainen,San Diego,CA,92111.0,United States,1976-03-21,149.6,72,20.3,1231.0,Grim Avenue,1 619 818 3436,KariLaatikainen@fleckens.hu
+Sabr,Amari,7.94,7.57,0.3700000000000001,novodra,32u - 27u,219,Female,Amari,La Follette,TN,37766.0,United States,1936-11-19,122.2,64,21.0,4929.0,Raver Croft Drive,423-563-2014,SabrRumaithahAmari@fleckens.hu
+Xiuxiu,Chang,7.64,7.23,0.4099999999999992,auralin,32u - 41u,8,Female,Chang,Morgan Hill,CA,95037.0,United States,1958-08-13,158.0,60,30.9,2687.0,Black Oak Hollow Road,1 408 778 3236,XiuxiuChang@einrot.com
+Xiuxiu,Chang,7.64,7.23,0.4099999999999992,auralin,32u - 41u,418,Female,Yuan,Redmond,WA,98052.0,United States,1943-03-08,150.0,66,24.2,4277.0,Mutton Town Road,360-689-4989,XiuxiuYuan@superrito.com
+Yasmin,Silva,8.88,8.46,0.4199999999999999,auralin,36u - 44u,59,Female,Araujo,Pittsburgh,PA,15205.0,United States,1981-03-21,196.0,67,30.7,3682.0,Stiles Street,412-640-7035,YasminCardosoAraujo@superrito.com
+Yasmin,Silva,8.88,8.46,0.4199999999999999,auralin,36u - 44u,105,Female,Silva,Phoenix,AZ,85012.0,United States,1927-07-24,200.6,62,36.7,108.0,Griffin Street,1 602 265 7408,YasminAlmeidaSilva@einrot.com
+Yasmin,Araujo,7.82,7.36,0.4599999999999999,novodra,51u - 54u,59,Female,Araujo,Pittsburgh,PA,15205.0,United States,1981-03-21,196.0,67,30.7,3682.0,Stiles Street,412-640-7035,YasminCardosoAraujo@superrito.com
+Yasmin,Araujo,7.82,7.36,0.4599999999999999,novodra,51u - 54u,105,Female,Silva,Phoenix,AZ,85012.0,United States,1927-07-24,200.6,62,36.7,108.0,Griffin Street,1 602 265 7408,YasminAlmeidaSilva@einrot.com
+Javier,Moquin,8.0,7.59,0.4100000000000001,novodra,30u - 32u,47,Male,Moquin,Pittsburgh,PA,15201.0,United States,1941-08-07,163.9,72,22.2,1808.0,Stuart Street,724-419-3583,JavierMoquin@rhyta.com
+Burrell,Mathieu,8.71,8.39,0.3200000000000003,auralin,46u - 58u,86,Male,Mathieu,Kissimmee,FL,34746.0,United States,1936-05-16,203.5,71,28.4,3816.0,Grand Avenue,407-662-9389,BurrellMathieu@teleworm.us
+Liisa,Seppl,7.87,7.51,0.3600000000000003,auralin,36u - 47u,46,Female,Seppl,Adamsville,TN,38310.0,United States,1930-02-15,157.7,63,27.9,1012.0,Lords Way,1 731 632 2908,LiisaSeppala@einrot.com
+Zikoranaudodimma,Chinedum,8.19,7.83,0.3599999999999994,auralin,41u - 51u,457,Male,Chinedum,Newport News,VA,23602.0,United States,1935-12-25,150.5,67,23.6,3402.0,Kildeer Drive,1 757 269 6500,ZikoranaudodimmaChinedum@cuvox.de
+Habte,Kifle,7.59,7.13,0.4599999999999999,auralin,42u - 48u,34,Male,Kifle,Dekalb,IL,60115.0,United States,1946-01-20,153.8,72,20.9,2055.0,Emeral Dreams Drive,815-270-7770,HabteKifle@fleckens.hu
+Rafael,Costa,7.73,7.34,0.3900000000000005,auralin,50u - 60u,6,Male,Costa,Daytona Beach,FL,32114.0,United States,1931-08-31,183.9,70,26.4,1140.0,Willis Avenue,386-334-5237,RafaelCardosoCosta@gustr.com
+Mgbankwo,Afamefuna,7.55,7.18,0.3700000000000001,novodra,36u - 37u,314,Female,Afamefuna,Atmore,AL,36502.0,United States,1984-07-18,188.5,67,29.5,1774.0,George Avenue,251-359-2088,MgbankwoAfamefuna@einrot.com
+Nate,Bowden,9.81,9.3,0.5099999999999998,novodra,48u - 47u,106,Male,Bowden,Clinton,NC,28328.0,United States,1954-03-26,222.0,71,31.0,4310.0,Johnson Street,919-915-8670,NateBowden@einrot.com
+Marcel,Peters,9.56,9.19,0.370000000000001,auralin,48u - 60u,406,Male,Peters,Albany,OR,97321.0,United States,1926-02-10,183.5,69,27.1,4476.0,Center Street,541-967-9779,MarcelPeters@rhyta.com
+Jowita,Winiewska,7.5,7.08,0.4199999999999999,novodra,22u - 23u,271,Female,Winiewska,Granite City,IL,62040.0,United States,1934-11-08,108.1,61,20.4,2168.0,Butternut Lane,+1 (618) 512-3319,JowitaWisniewska@armyspy.com
+Farizah,Sleiman,7.8,7.4,0.3999999999999994,novodra,50u - 50u,370,Female,Sleiman,San Diego,CA,92101.0,United States,1943-08-19,190.5,62,34.8,2322.0,Grim Avenue,619-652-0285,FarizahAminehSleiman@teleworm.us
+David,Gustafsson,7.72,7.28,0.4399999999999995,novodra,33u - 34u,281,Male,Beauvais,San Antonio,TX,78258.0,United States,1931-05-01,128.5,67,20.1,98.0,Freshour Circle,210-218-3477,DavidLBeauvais@rhyta.com
+David,Gustafsson,7.72,7.28,0.4399999999999995,novodra,33u - 34u,441,Male,Villadsen,St Elizabeth,MO,65559.0,United States,1924-11-30,137.3,68,20.9,1434.0,Oak Ridge Drive,+1 (573) 493-4748,DavidMVilladsen@armyspy.com
+David,Beauvais,7.87,7.47,0.4000000000000003,novodra,26u - 23u,281,Male,Beauvais,San Antonio,TX,78258.0,United States,1931-05-01,128.5,67,20.1,98.0,Freshour Circle,210-218-3477,DavidLBeauvais@rhyta.com
+David,Beauvais,7.87,7.47,0.4000000000000003,novodra,26u - 23u,441,Male,Villadsen,St Elizabeth,MO,65559.0,United States,1924-11-30,137.3,68,20.9,1434.0,Oak Ridge Drive,+1 (573) 493-4748,DavidMVilladsen@armyspy.com
+David,Villadsen,7.86,7.4,0.4599999999999999,auralin,26u - 39u,281,Male,Beauvais,San Antonio,TX,78258.0,United States,1931-05-01,128.5,67,20.1,98.0,Freshour Circle,210-218-3477,DavidLBeauvais@rhyta.com
+David,Villadsen,7.86,7.4,0.4599999999999999,auralin,26u - 39u,441,Male,Villadsen,St Elizabeth,MO,65559.0,United States,1924-11-30,137.3,68,20.9,1434.0,Oak Ridge Drive,+1 (573) 493-4748,DavidMVilladsen@armyspy.com
+Kaodilinakachukwu,Nnonso,7.76,7.4,0.3599999999999994,auralin,63u - 68u,183,Male,Nnonso,Jersey City,NJ,7304.0,United States,1963-11-09,230.3,69,34.0,3261.0,Desert Broom Court,201-739-3931,KaodilinakachukwuNnonso@gustr.com
+Kamila,Pecinov,7.77,7.39,0.3799999999999999,novodra,54u - 51u,36,Female,Pecinov,New York,NY,10004.0,United States,1985-12-23,198.9,62,36.4,3558.0,Longview Avenue,718-501-0503,KamilaPecinova@dayrep.com
+Urso,Aranda,7.6,7.16,0.4399999999999995,auralin,30u - 38u,195,Male,Aranda,Hopewell  Mercer,NJ,8525.0,United States,1999-07-03,163.7,70,23.5,1330.0,Lincoln Street,609-466-3275,UrsoArandaSanchez@rhyta.com
+Vasco,Van De Wiel,7.94,7.51,0.4300000000000006,novodra,31u - 29u,331,Male,van de Wiel,Pritchardville,SC,29902.0,United States,1981-01-03,153.8,72,20.9,2691.0,Kessla Way,+1 (843) 368-5129,VascovandeWiel@rhyta.com
+Kwemtochukwu,Ogochukwu,7.86,7.53,0.33,novodra,34u - 37u,54,Male,Ogochukwu,Franklin,MA,2038.0,United States,1976-06-30,150.5,72,20.4,2172.0,Lynn Street,617-317-5055,KwemtochukwuOgochukwu@einrot.com
+Rut,Halldrsdttir,9.01,8.63,0.379999999999999,auralin,31u - 40u,78,Female,Halldrsdttir,Lexington,KY,40507.0,United States,1959-05-09,162.6,66,26.2,1054.0,Zappia Drive,859-297-3368,RutHalldorsdottir@einrot.com
+Ivona,Jaki,7.98,7.54,0.4400000000000004,novodra,41u - 41u,377,Female,Jaki,Wichita,AR,67202.0,United States,1935-09-05,200.8,62,36.7,1051.0,Bassell Avenue,+1 (501) 636-4058,IvonaJaksic@einrot.com
+Giovana,Rocha,7.87,7.38,0.4900000000000002,novodra,23u - 21u,409,Female,Rocha,Grayling,MI,49738.0,United States,1938-05-02,113.1,67,17.7,3542.0,Robinson Court,+1 (989) 390-0285,GiovanaAzevedoRocha@superrito.com
+Barbora,Veseck,7.9,7.46,0.4400000000000004,auralin,29u - 45u,61,Female,Veseck,San Diego,CA,92101.0,United States,1939-02-19,159.1,67,24.9,4018.0,Poplar Avenue,619-570-3898,BarboraVesecka@gustr.com
+Jesse,Luoma,7.72,7.35,0.3700000000000001,novodra,39u - 37u,135,Male,Luoma,Albany,NY,12207.0,United States,1922-06-01,154.9,66,25.0,3714.0,Ben Street,+1 (518) 212-7081,JesseLuoma@fleckens.hu
+Johana,Hrd,7.79,7.49,0.2999999999999998,auralin,54u - 54u,374,Female,Hrd,Springdale,AR,72762.0,United States,1952-08-04,216.9,66,35.0,541.0,Green Hill Road,479-248-5663,JohanaHrda@dayrep.com
+Stephen,Mayberry,7.82,7.47,0.3500000000000005,novodra,40u - 39u,51,Male,Gibson,Wilkes Barre,PA,18701.0,United States,1991-04-25,238.9,70,34.3,283.0,Simons Hollow Road,570-819-1140,StephenGibson@cuvox.de
+Stephen,Mayberry,7.82,7.47,0.3500000000000005,novodra,40u - 39u,110,Male,Mayberry,Hattiesburg,MS,39402.0,United States,1934-09-01,166.1,72,22.5,3063.0,School House Road,601-699-4153,StephenFMayberry@jourrapide.com
+Nora,Nyborg,7.83,7.48,0.3499999999999996,auralin,55u - 59u,275,Female,Nyborg,Westerville,OH,43081.0,United States,1958-02-10,202.6,68,30.8,2852.0,Irving Road,740-552-2444,NoraNyborg@einrot.com
+Nicoline,stergaard,7.84,7.57,0.2699999999999996,auralin,24u - 32u,121,Female,stergaard,San Francisco,CA,94108.0,United States,1926-12-14,124.5,63,22.1,2836.0,Boring Lane,415-676-8818,NicolinePstergaard@superrito.com
+Ruman,Bisliev,7.72,7.39,0.33,auralin,46u - 53u,500,Male,Bisliev,Sedona,AZ,86341.0,United States,1948-03-26,239.6,70,34.4,494.0,Clarksburg Park Road,928-284-4492,RumanBisliev@gustr.com
+HannaMari,Filatov,7.71,7.3,0.4100000000000001,auralin,55u - 61u,280,Female,Filatov,Riverton,WV,26814.0,United States,1967-01-05,200.8,62,36.7,2127.0,Columbia Mine Road,304-567-9723,Hanna-MariFilatov@fleckens.hu
+Krisztin,Bakos,7.75,7.29,0.4599999999999999,novodra,60u - 60u,396,Male,Bakos,Yadkinville,NC,27055.0,United States,1975-03-28,231.9,74,29.8,2316.0,Ingram Road,336-677-8769,BakosKrisztian@teleworm.us
+Mustafa,Lindstrm,7.92,7.6,0.3200000000000003,novodra,35u - 33u,244,Male,Adonay,Superior,WI,54880.0,United States,1922-01-05,211.9,67,33.2,1742.0,Tea Berry Lane,715-817-0134,MustafaAdonay@dayrep.com
+Mustafa,Lindstrm,7.92,7.6,0.3200000000000003,novodra,35u - 33u,499,Male,Lindstrm,Milton Mills,ME,3852.0,United States,1959-04-10,181.1,72,24.6,2530.0,Victoria Court,207-477-0579,MustafaLindstrom@jourrapide.com
+Mustafa,Adonay,7.79,7.34,0.4500000000000002,auralin,58u - 69u,244,Male,Adonay,Superior,WI,54880.0,United States,1922-01-05,211.9,67,33.2,1742.0,Tea Berry Lane,715-817-0134,MustafaAdonay@dayrep.com
+Mustafa,Adonay,7.79,7.34,0.4500000000000002,auralin,58u - 69u,499,Male,Lindstrm,Milton Mills,ME,3852.0,United States,1959-04-10,181.1,72,24.6,2530.0,Victoria Court,207-477-0579,MustafaLindstrom@jourrapide.com
+Muhammad,Holden,7.55,7.09,0.4599999999999999,auralin,29u - 37u,129,Male,Hughes,Indianapolis,IN,46214.0,United States,1938-09-21,202.2,72,27.4,1965.0,Crestview Manor,1 317 292 2394,MuhammadHughes@rhyta.com
+Muhammad,Holden,7.55,7.09,0.4599999999999999,auralin,29u - 37u,471,Male,Holden,Live Oak,FL,32064.0,United States,1969-09-08,159.5,66,25.7,3414.0,Franklin Avenue,386-234-5932,MuhammadHolden@fleckens.hu
+Manuela,Cindri,8.07,7.76,0.3100000000000005,auralin,55u - 66u,432,Female,Cindri,Dublin,CA,94568.0,United States,1942-12-01,219.9,64,37.7,4120.0,Thompson Drive,510-376-3772,ManuelaCindric@gustr.com
+Nile,Mehari,9.25,8.79,0.4600000000000008,auralin,40u - 53u,352,Female,Mehari,Chattanooga,TN,37403.0,United States,1956-02-27,197.6,65,32.9,2458.0,Broadway Avenue,423-799-1730,NileMehari@gustr.com
+Lewis,Webb,7.85,7.52,0.33,auralin,39u - 44u,287,Male,Webb,,,,,1979-04-01,155.3,68,23.6,,,,
+Nicole,Zimmerman,8.98,8.57,0.4100000000000001,novodra,59u - 56u,112,Female,Zimmerman,Newhall,CA,91321.0,United States,1984-01-14,225.9,74,29.0,909.0,Williams Avenue,661-291-1812,NicoleZimmerman@rhyta.com
+Saidmohmad,Rushisvili,7.9,7.48,0.4199999999999999,novodra,49u - 46u,218,Male,Rushisvili,Athens,GA,30601.0,United States,1959-06-11,216.5,67,33.9,4192.0,Holly Street,706-266-4583,SaidmohmadRushisvili@teleworm.us
+Russom,Amanuel,7.86,7.4,0.4599999999999999,novodra,39u - 36u,272,Male,Amanuel,Edinburg,TX,78539.0,United States,1996-02-15,142.3,70,20.4,3942.0,Jerome Avenue,956-380-7249,RussomAmanuel@armyspy.com
+Chidalu,Onyekaozulu,7.54,7.27,0.2700000000000004,novodra,42u - 41u,502,Female,Onyekaozulu,Seattle,WA,98109.0,United States,1952-02-13,176.9,67,27.7,3652.0,Boone Crockett Lane,1 360 443 2060,ChidaluOnyekaozulu@jourrapide.com
+Asuna,Morita,7.58,7.25,0.33,novodra,35u - 39u,346,Female,Morita,Medaryville,IN,47957.0,United States,1969-12-30,134.2,61,25.4,1324.0,Duffy Street,219-843-3924,AsunaMorita@superrito.com
+Sandy,Gunnarsson,7.97,7.45,0.5199999999999996,novodra,41u - 44u,11,Female,Gunnarsson,Rudyard,MI,49780.0,United States,1974-07-16,199.3,62,36.4,87.0,Wood Duck Drive,906-478-8949,SandyGunnarsson@dayrep.com
+Sandy,Gunnarsson,7.97,7.45,0.5199999999999996,novodra,41u - 44u,283,Female,Taylor,Rainelle,WV,25962.0,United States,1960-10-23,206.1,64,35.4,2476.0,Fulton Street,304-438-2648,SandraCTaylor@dayrep.com
+Yunadi,Barsukov,9.47,9.05,0.4199999999999999,auralin,48u - 58u,115,Male,Barsukov,Manhattan,NY,10016.0,United States,1993-05-28,176.2,68,26.8,2784.0,Turkey Pen Road,917-256-5329,YunadiBarsukov@teleworm.us
+Harley,Tucker,7.97,7.64,0.33,auralin,47u - 57u,470,Male,Tucker,Wilmington,NC,28412.0,United States,1965-09-21,220.4,66,35.6,1067.0,Ray Court,910-264-6229,HarleyTucker@fleckens.hu
+Rebecca,Priest,7.87,7.57,0.2999999999999998,auralin,40u - 42u,130,Female,Jephcott,New York,NY,10004.0,United States,1966-08-01,203.3,65,33.8,989.0,Wayback Lane,631-370-7406,RebeccaJephcott@armyspy.com
+Rebecca,Priest,7.87,7.57,0.2999999999999998,auralin,40u - 42u,263,Female,Priest,Houston,TX,77092.0,United States,1988-03-26,194.0,68,29.5,2020.0,Gore Street,713-556-4328,RebeccaRPriest@dayrep.com
+Rebecca,Jephcott,7.96,7.57,0.3899999999999997,auralin,53u - 63u,130,Female,Jephcott,New York,NY,10004.0,United States,1966-08-01,203.3,65,33.8,989.0,Wayback Lane,631-370-7406,RebeccaJephcott@armyspy.com
+Rebecca,Jephcott,7.96,7.57,0.3899999999999997,auralin,53u - 63u,263,Female,Priest,Houston,TX,77092.0,United States,1988-03-26,194.0,68,29.5,2020.0,Gore Street,713-556-4328,RebeccaRPriest@dayrep.com
+Helen,Luwam,7.66,7.19,0.4699999999999997,auralin,32u - 42u,347,Female,Luwam,Binghamton,NY,13904.0,United States,1946-07-06,166.3,60,32.5,2687.0,Hinkle Deegan Lake Road,607-206-1483,HelenLuwam@dayrep.com
+Malik,Vaneker,7.55,7.12,0.4299999999999997,auralin,44u - 54u,476,Male,Vaneker,Mountain View,CA,94041.0,United States,1953-09-25,214.4,67,33.6,1270.0,Haul Road,650-962-7179,MalikVaneker@superrito.com
+Felicijan,Bubanj,7.85,7.5,0.3499999999999996,auralin,62u - 75u,151,Male,Bubanj,Dundee,FL,33838.0,United States,1957-05-22,226.6,71,31.6,4556.0,Oakdale Avenue,863-438-6922,FelicijanBubanj@einrot.com
+Jeramy,Hopkins,8.02,7.67,0.3499999999999996,auralin,37u - 46u,294,Male,Hopkins,Walnut Creek,CA,94597.0,United States,1995-09-11,179.1,71,25.0,2651.0,Black Oak Hollow Road,408-834-4087,JeramyAHopkins@teleworm.us
+Annie,Allen,9.95,9.58,0.3699999999999992,auralin,36u - 42u,295,Female,Allen,Cambridge,MA,2142.0,United States,1926-03-31,159.7,60,31.2,3634.0,Lyon Avenue,1 508 921 6327,AnnieJAllen@superrito.com
+Lamara,Dratchev,7.75,7.4,0.3499999999999996,auralin,49u - 58u,196,Female,Dratchev,New Orleans,LA,70113.0,United States,1954-10-20,181.3,67,28.4,3731.0,Swick Hill Street,985-253-7891,LamaraDratchev@teleworm.us
+Nadwah,Naifeh,7.97,7.52,0.4500000000000002,auralin,44u - 53u,472,Female,Naifeh,Portland,OR,97205.0,United States,1957-03-12,192.7,66,31.1,69.0,Mattson Street,503-417-1995,NadwahHawadahNaifeh@einrot.com
+Benigna,Ferrari,7.78,7.36,0.4199999999999999,auralin,41u - 52u,301,Female,Ferrari,Columbus,GA,31901.0,United States,1960-01-06,181.5,61,34.3,4912.0,Hart Country Lane,706-616-0152,BenignaFerrari@einrot.com
+Sun,Ko,7.59,7.23,0.3599999999999994,auralin,33u - 39u,437,Male,Ko,Washington,VA,20008.0,United States,1969-07-08,154.4,72,20.9,1962.0,Cabell Avenue,703-547-0551,SunKo@einrot.com
+Justyna,Kowalczyk,9.84,9.44,0.4000000000000003,auralin,24u - 34u,236,Female,Kowalczyk,Pippa Passes,KY,41844.0,United States,1981-04-05,112.2,61,21.2,3115.0,May Street,606-368-9825,JustynaKowalczyk@jourrapide.com
+Malina,Balagi,7.65,7.3,0.3500000000000005,novodra,48u - 50u,223,Female,Balagi,Louisville,KY,40244.0,United States,1962-02-14,224.8,68,34.2,4019.0,Cerullo Road,502-367-6167,MalinaBalagic@einrot.com
+Gabriele,Saenger,8.35,7.97,0.3799999999999999,auralin,22u - 30u,209,Female,Saenger,Arlington,TX,76011.0,United States,1973-08-26,121.2,68,18.4,3499.0,Baker Avenue,+1 (817) 909-5667,GabrieleSaenger@armyspy.com
+Marina,Glockner,7.88,7.55,0.33,auralin,35u - 45u,109,Female,Glockner,Bushton,KS,67427.0,United States,1934-06-18,191.4,63,33.9,475.0,Preston Street,1 620 940 1131,MarinaGlockner@dayrep.com
+Andr,Nordin,7.6,7.27,0.33,auralin,40u - 47u,82,Male,Nordin,Gate,OK,73844.0,United States,1940-11-12,209.4,69,30.9,836.0,Dovetail Estates,580-934-1141,AndreNordin@cuvox.de
+Samuel,Blix,7.97,7.56,0.4100000000000001,auralin,48u - 55u,487,Male,Blix,Waco,TX,76706.0,United States,1983-07-06,211.4,74,27.1,3488.0,Clair Street,254-681-4504,SamuelBlix@dayrep.com
+Kerman,Dandonneau,7.82,7.28,0.54,auralin,41u - 50u,361,Male,Dandonneau,Atlanta,GA,30303.0,United States,1998-04-09,165.9,71,23.1,3688.0,Adonais Way,1 678 412 3728,KermanDandonneau@superrito.com
+Jan,Baum,7.57,7.19,0.3799999999999999,auralin,53u - 57u,99,Male,Baum,Fairbanks,AK,99701.0,United States,1967-11-06,194.3,74,24.9,1733.0,Blackwell Street,+1 (907) 328-4125,JanBaum@superrito.com
+Merci,Leroux,8.98,8.64,0.3399999999999998,auralin,27u - 33u,360,Female,Leroux,Copperas Cove,TX,76552.0,United States,1955-06-08,132.2,65,22.0,4519.0,Sussex Court,254-518-6365,MerciLeroux@jourrapide.com
+Kong,Lei,7.58,7.15,0.4299999999999997,novodra,32u - 30u,325,Male,Lei,Washington,DC,20009.0,United States,1937-08-10,165.2,72,22.4,4508.0,Goldcliff Circle,202-238-2247,KongLei@fleckens.hu
+Kajsa,Eidem,7.77,7.34,0.4299999999999997,novodra,41u - 38u,444,Female,Eidem,Ocala,FL,34471.0,United States,1964-04-26,191.0,60,37.3,1953.0,Rhapsody Street,352-362-5392,KajsaEidem@superrito.com
+Tegan,Johnson,7.79,7.43,0.3600000000000003,novodra,34u - 34u,408,Female,Johnson,Oklahoma City,OK,73107.0,United States,1928-01-19,156.6,65,26.1,2636.0,Benson Park Drive,405-470-5088,TeganJohnson@gustr.com
+Chn,Bi,7.53,7.18,0.3500000000000005,auralin,31u - 42u,317,Female,Bi,Amherst,MA,1002.0,United States,1932-10-11,162.1,61,30.6,115.0,Frank Avenue,413-259-3637,BuiQuynhChan@fleckens.hu
+Leah,Wong,7.79,7.42,0.3700000000000001,novodra,28u - 31u,207,Female,Wong,Canadian,TX,79014.0,United States,1934-06-11,129.8,62,23.7,3548.0,Hilltop Drive,806-323-2210,LeahWong@einrot.com
+Fraser,Hunter,7.7,7.42,0.2800000000000002,novodra,36u - 32u,293,Male,Hunter,Cissna Park,IL,60924.0,United States,1929-07-09,143.0,64,24.5,3072.0,Braxton Street,815-457-5970,FraserHunter@teleworm.us
+Len,Reynoso,7.59,7.06,0.5300000000000002,novodra,38u - 40u,338,Male,Reynoso,Eagle,ID,83642.0,United States,1931-05-16,209.4,65,34.8,385.0,Walnut Avenue,208-830-2415,LeonReynosoRendon@einrot.com
+Bouke,Glaser,7.72,7.34,0.3799999999999999,novodra,26u - 30u,464,Female,Glaser,Owensville,MO,65066.0,United States,1996-10-21,142.1,66,22.9,3006.0,Maple Court,1 573 437 7334,BoukeGlaser@einrot.com
+Mee,Chung,7.56,7.2,0.3599999999999994,auralin,42u - 56u,251,Female,Chung,Dundalk,MD,21222.0,United States,1932-10-27,206.1,64,35.4,3084.0,Blue Spruce Lane,410-284-8935,MeeChung@teleworm.us
+Martha,Afanasyeva,7.81,7.39,0.4199999999999999,novodra,34u - 41u,212,Female,Afanasyeva,Saint Paul,MN,55114.0,United States,1997-10-03,151.2,73,19.9,3613.0,Lodgeville Road,1 612 228 4170,MarthaAfanasyeva@dayrep.com
+Monika,Lonar,9.13,8.72,0.4100000000000001,novodra,49u - 46u,178,Female,Lonar,Los Angeles,CA,90014.0,United States,1927-07-19,203.7,63,36.1,377.0,Norman Street,323-327-4721,MonikaLoncar@rhyta.com
+Valur,Bjarkason,9.71,9.41,0.3000000000000007,novodra,31u - 36u,310,Male,Bjarkason,Birmingham,AL,35203.0,United States,1933-12-18,130.7,68,19.9,1782.0,New Creek Road,256-872-9211,ValurBjarkason@cuvox.de
+Svanhvt,Gujnsdttir,7.57,7.11,0.4599999999999999,auralin,37u - 44u,114,Female,Gujnsdttir,Houston,TX,77074.0,United States,1931-07-23,204.2,63,36.2,2641.0,Michael Street,1 713 779 6516,SvanhvitGujonsdottir@cuvox.de
+Eufrosina,Schiavone,9.0,8.56,0.4399999999999995,novodra,23u - 23u,199,Female,Schiavone,Lexington,KY,40507.0,United States,1926-04-06,108.5,62,19.8,1984.0,Counts Lane,+1 (859) 977-9462,EufrosinaSchiavone@cuvox.de
+Minea,Lindgren,9.45,8.94,0.5099999999999998,auralin,38u - 45u,341,Female,Lindgren,Palmdale,CA,93550.0,United States,1940-01-10,176.9,64,30.4,2272.0,Williams Avenue,661-265-8708,MineaLindgren@jourrapide.com
+Peter,Pospil,7.76,7.34,0.4199999999999999,auralin,51u - 60u,167,Male,Pospil,Longview,TX,75601.0,United States,1989-01-01,225.3,70,32.3,200.0,Hall Place,903-749-8046,PeterPospisil@cuvox.de
+Angelico,Marchesi,7.62,7.18,0.4400000000000004,novodra,58u - 58u,445,Male,Marchesi,San Francisco,CA,94108.0,United States,1945-10-28,211.6,69,31.2,456.0,Delaware Avenue,415-277-2563,AngelicoMarchesi@fleckens.hu
+Amalie,Christensen,7.88,7.55,0.33,auralin,38u - 45u,359,Female,Christensen,Meriden,CT,6450.0,United States,1941-10-01,160.8,63,28.5,3077.0,Colony Street,1 203 235 1076,AmalieJChristensen@einrot.com
+Novalie,Berg,7.85,7.49,0.3599999999999994,novodra,32u - 31u,140,Female,Berg,Cincinnati,OH,45202.0,United States,1973-04-22,156.9,61,29.6,1275.0,Goldie Lane,+1 (513) 383-0516,NovalieBerg@gustr.com
+Nicolas,Ferreira,7.99,7.72,0.2700000000000004,auralin,43u - 51u,66,Male,Ferreira,Rossville,IN,46065.0,United States,1976-10-27,211.9,69,31.3,2310.0,Overlook Drive,765-379-3885,NicolasSouzaFerreira@superrito.com
+Lena,Baer,7.7,7.4,0.2999999999999998,novodra,41u - 38u,128,Female,Baer,Elma,WA,98541.0,United States,1977-11-10,170.7,61,32.2,272.0,Boone Crockett Lane,360-482-2553,LenaBaer@rhyta.com
+Martina,Tomnkov,7.83,7.36,0.4699999999999997,novodra,50u - 57u,235,Female,Tomnkov,,,,,1936-04-07,199.5,65,33.2,,,,
+WillemJan,Van Der Lubbe,7.57,7.2,0.3700000000000001,novodra,40u - 40u,136,Male,van der Lubbe,Cleveland,OH,44115.0,United States,1941-07-09,152.9,69,22.6,1717.0,Vineyard Drive,440-385-5011,Willem-JanvanderLubbe@gustr.com
+Maximus,Henzen,7.79,7.34,0.4500000000000002,auralin,49u - 55u,446,Male,Henzen,San Jose,CA,95113.0,United States,1924-11-14,180.8,72,24.5,4334.0,Black Oak Hollow Road,408-792-9489,MaximusHenzen@einrot.com
+Najla,Touma,7.66,7.31,0.3500000000000005,novodra,39u - 44u,103,Female,Touma,Montgomery,AL,36104.0,United States,1948-08-20,165.0,61,31.2,2146.0,Willow Greene Drive,+1 (334) 261-1235,NajlaQismahTouma@cuvox.de
+Emy,Markus,7.53,7.14,0.3900000000000005,novodra,29u - 24u,344,Female,Markus,Stamford,CT,6901.0,United States,1999-01-30,140.6,65,23.4,288.0,Colony Street,203-251-3573,EmyMarkus@armyspy.com
+Jin,Kung,7.8,7.5,0.2999999999999998,auralin,55u - 60u,258,Male,Kung,,,,,1995-05-17,231.7,69,34.2,,,,
+Katrine,Lynge,7.6,7.13,0.4699999999999997,novodra,43u - 42u,176,Female,Lynge,Jacksonville,IL,62650.0,United States,1934-08-25,163.2,60,31.9,4943.0,Isaacs Creek Road,1 217 491 5261,KatrineLynge@gustr.com
+Kri,Hervinsson,8.09,7.66,0.4299999999999997,auralin,37u - 43u,227,Male,Hervinsson,Fairview Park,NY,10603.0,United States,1963-08-05,189.4,72,25.7,4273.0,Deans Lane,914-784-6646,KariHervinsson@einrot.com
+Vanessa,Ferguson,7.97,7.58,0.3899999999999997,auralin,39u - 50u,492,Female,Ferguson,San Antonio,TX,78205.0,United States,1950-09-21,149.8,67,23.5,241.0,Freshour Circle,210-222-8684,VanessaFerguson@jourrapide.com
+Nng,V,7.68,7.29,0.3899999999999997,auralin,31u - 38u,85,Female,V,New York,NY,10001.0,United States,1981-02-01,138.2,63,24.5,465.0,Southern Street,516-720-5094,VuCamNuong@fleckens.hu
+Cecilie,Nilsen,9.63,9.21,0.4199999999999999,novodra,49u - 50u,249,Female,Nilsen,North Loup,NE,68859.0,United States,1950-01-12,181.3,64,31.1,1854.0,Kyle Street,308-496-7837,CecilieNilsen@superrito.com
+Erick,Pinto,7.88,7.49,0.3899999999999997,auralin,44u - 54u,367,Male,Pinto,Aberdeen,SD,57401.0,United States,1945-09-24,183.5,68,27.9,2884.0,Elsie Drive,605-250-4942,ErickSouzaPinto@cuvox.de
+Adib,Ghanem,7.59,7.12,0.4699999999999997,novodra,46u - 49u,119,Male,Ghanem,Delcambre,LA,70528.0,United States,1967-12-31,254.5,72,34.5,3457.0,Bridge Avenue,337-685-4885,AdibMutazzGhanem@fleckens.hu
+runn,Tryggvadttir,7.98,7.51,0.4700000000000006,novodra,30u - 32u,266,Female,Tryggvadttir,Mio,MI,48647.0,United States,1978-06-09,120.0,69,17.7,77.0,Juniper Drive,+1 (989) 826-7884,orunnTryggvadottir@dayrep.com
+Taylah,Mobourne,7.9,7.51,0.3900000000000005,auralin,41u - 50u,426,Female,Mobourne,Weehawken,NJ,7087.0,United States,1961-07-04,188.5,67,29.5,995.0,Beechwood Avenue,908-751-4255,TaylahMobourne@rhyta.com
+Sirkka,Piirainen,8.9,8.59,0.3100000000000005,novodra,26u - 24u,495,Female,Piirainen,Roseville,MI,48066.0,United States,1942-01-16,126.3,67,19.8,4102.0,Ritter Avenue,+1 (586) 790-0975,SirkkaPiirainen@teleworm.us
+Dit,Bi,9.11,8.76,0.3499999999999996,novodra,30u - 32u,351,Male,Bi,Rylie,TX,75235.0,United States,1936-04-18,119.0,65,19.8,3788.0,Worthington Drive,+1 (972) 557-0198,BuiKimDiet@rhyta.com
+Sinead,Reilly,7.76,7.39,0.3700000000000001,auralin,27u - 39u,357,Female,Reilly,Maurepas,LA,70449.0,United States,1923-04-05,148.3,64,25.5,3893.0,Eva Pearl Street,+1 (225) 695-5230,SineadReilly@cuvox.de
+Torben,Mortensen,7.8,7.4,0.3999999999999994,novodra,44u - 40u,384,Male,Mortensen,Monteview,ID,83435.0,United States,1943-07-24,168.7,69,24.9,4682.0,Science Center Drive,1 208 657 2473,TorbenMMortensen@einrot.com
+Veronica,Bogolyubova,7.69,7.31,0.3800000000000008,auralin,25u - 35u,257,Female,Bogolyubova,Trevorton,PA,17881.0,United States,1981-06-16,128.9,67,20.2,3945.0,Simons Hollow Road,570-797-6666,VeronicaBogolyubova@teleworm.us
+Anenechi,Chidi,7.64,7.31,0.33,auralin,52u - 61u,14,Female,Chidi,Birmingham,AL,35203.0,United States,1961-03-07,228.4,67,35.8,826.0,Broad Street,+1 (205) 417-8095,AnenechiChidi@armyspy.com
+Cintia,Csorba,8.49,8.0,0.4900000000000002,auralin,47u - 50u,229,Female,Csorba,Sacramento,CA,95826.0,United States,1991-07-20,186.6,62,34.1,2126.0,Pearl Street,916-379-7480,CsorbaCintia@fleckens.hu
+Lim,Phan,7.58,7.1,0.4800000000000004,novodra,43u - 48u,4,Male,Phan,Woodbridge,NJ,7095.0,United States,1951-07-26,220.9,70,31.7,2335.0,Webster Street,+1 (732) 636-8246,PhanBaLiem@jourrapide.com
+Daud,Batukayev,7.98,7.51,0.4700000000000006,novodra,37u - 30u,309,Male,Batukayev,Huntington,NY,11743.0,United States,1983-09-15,178.9,73,23.6,153.0,Fieldcrest Road,631-875-3023,DaudBatukayev@teleworm.us
+Erica,Macdonald,7.55,7.26,0.29,auralin,33u - 39u,312,Female,MacDonald,Philadelphia,MS,39350.0,United States,1937-05-04,171.4,63,30.4,2011.0,Eastland Avenue,601-389-7682,EricaMacDonald@teleworm.us
+Hawra,Tuma,7.93,7.56,0.3700000000000001,auralin,26u - 35u,164,Female,Tuma,Winnsboro,SC,29180.0,United States,1992-09-29,134.2,69,19.8,2972.0,Hillview Street,803-712-1180,HawraSultanahTuma@superrito.com
+Sandra,Taylor,7.84,7.49,0.3499999999999996,auralin,51u - 58u,132,Female,Taylor,Rainelle,WV,25962.0,United States,1960-10-23,206.1,64,35.4,2476.0,Fulton Street,304-438-2648,SandraCTaylor@dayrep.com
+Eric,Ek,7.92,7.47,0.4500000000000002,novodra,51u - 47u,400,Male,Ek,Seattle,WA,98109.0,United States,1943-04-07,212.1,71,29.6,4160.0,Pratt Avenue,+1 (360) 965-1558,EricEk@jourrapide.com
+Kisanet,Selassie,9.64,9.27,0.370000000000001,auralin,48u - 59u,190,Female,Selassie,Sacramento,CA,95817.0,United States,1956-04-26,177.1,62,32.4,3227.0,Park Avenue,+1 (916) 453-3601,KisanetSelassie@gustr.com
+Pamela,Hill,9.53,9.1,0.4299999999999997,novodra,27u - 29u,2,Female,Hill,Armstrong,IL,61812.0,United States,1967-04-03,118.8,66,19.2,2370.0,University Hill Road,+1 (217) 569-3204,PamelaSHill@cuvox.de
+Arne,Jrgensen,9.65,9.31,0.3399999999999998,auralin,32u - 43u,461,Male,Jrgensen,Oakland,CA,94612.0,United States,1998-03-14,163.5,65,27.2,1033.0,Wayside Lane,+1 (510) 238-1151,ArneJrgensen@fleckens.hu
+Haylom,Nebay,7.62,7.22,0.4000000000000003,novodra,42u - 44u,147,Male,Nebay,East Chicago,IN,46312.0,United States,1963-09-01,185.9,70,26.7,1736.0,Parrill Court,1 219 391 7729,HaylomNebay@gustr.com
+Eemil,Laine,7.89,7.53,0.3599999999999994,novodra,30u - 29u,447,Male,Laine,Mclain,MS,39456.0,United States,1929-03-22,167.2,72,22.7,2531.0,Eastland Avenue,601-418-0102,EemilLaine@einrot.com
+Hng,Lm,7.66,7.29,0.3700000000000001,auralin,40u - 49u,165,Female,Lm,Olathe,KS,66061.0,United States,1959-06-19,193.6,63,34.3,4795.0,Better Street,913-393-8663,LamHoangHuong@rhyta.com
+Manouck,Wubbels,7.66,7.4,0.2599999999999998,auralin,55u - 62u,403,Female,Wubbels,Utica,MS,39175.0,United States,1964-11-03,201.5,65,33.5,4789.0,Devils Hill Road,601-885-6550,ManouckWubbels@armyspy.com
+Anja,Hueber,8.82,8.36,0.4600000000000008,novodra,31u - 32u,329,Female,Hueber,Minneapolis,MN,55402.0,United States,1987-04-16,151.8,65,25.3,3216.0,Lodgeville Road,+1 (612) 342-6065,AnjaHueber@teleworm.us
+Anja,Hueber,8.82,8.36,0.4600000000000008,novodra,31u - 32u,395,Female,Mueller,Tyler,TX,75757.0,United States,1942-08-06,182.2,61,34.4,570.0,Alpha Avenue,903-939-1025,AnjaMueller@gustr.com
+Anja,Mueller,7.58,7.29,0.29,auralin,43u - 56u,329,Female,Hueber,Minneapolis,MN,55402.0,United States,1987-04-16,151.8,65,25.3,3216.0,Lodgeville Road,+1 (612) 342-6065,AnjaHueber@teleworm.us
+Anja,Mueller,7.58,7.29,0.29,auralin,43u - 56u,395,Female,Mueller,Tyler,TX,75757.0,United States,1942-08-06,182.2,61,34.4,570.0,Alpha Avenue,903-939-1025,AnjaMueller@gustr.com
+Linda,Lundy,7.97,7.52,0.4500000000000002,novodra,48u - 53u,300,Female,Lundy,Bovill,ID,83823.0,United States,1969-01-29,192.5,69,28.4,3964.0,Walnut Avenue,208-826-1678,LindaJLundy@gustr.com
+Rocco,Christie,7.96,7.62,0.3399999999999998,novodra,42u - 40u,108,Male,Christie,Mount Airy,MD,21771.0,United States,1987-01-16,167.0,70,24.0,1373.0,Wilmar Farm Road,240-322-1398,RoccoChristie@rhyta.com
+Elisabetta,Lorenzo,7.78,7.42,0.3600000000000003,novodra,28u - 24u,364,Female,Lorenzo,Los Angeles,CA,90017.0,United States,1927-07-16,124.7,61,23.6,1014.0,Locust Court,562-452-5685,ElisabettaLorenzo@gustr.com
+Fareeq,Kalb,7.97,7.59,0.3799999999999999,novodra,51u - 54u,289,Male,Kalb,Santa Cruz,CA,95060.0,United States,1985-05-01,194.5,70,27.9,1043.0,Ventura Drive,831-427-4114,FareeqJawharKalb@armyspy.com
+Sargent,Flamand,7.92,7.49,0.4299999999999997,novodra,47u - 39u,96,Male,Ruais,Blackwell,TX,79506.0,United States,1942-01-01,205.3,72,27.8,1009.0,Felosa Drive,325-282-4087,SargentRuais@jourrapide.com
+Sargent,Flamand,7.92,7.49,0.4299999999999997,novodra,47u - 39u,387,Male,Flamand,San Jose,CA,95134.0,United States,1965-05-10,207.7,65,34.6,163.0,Hide A Way Road,408-215-6012,SargentFlamand@dayrep.com
+Angel,Grant,7.93,7.47,0.4599999999999999,auralin,31u - 37u,484,Female,Grant,Memphis,TN,38118.0,United States,1987-08-14,123.9,61,23.4,990.0,Melville Street,731-577-0292,AngelGrant@fleckens.hu
+Wu,Sung,7.61,7.12,0.4900000000000002,novodra,47u - 48u,454,Male,Sung,Houston,TX,77077.0,United States,1993-10-31,181.3,74,23.3,1072.0,Bird Spring Lane,281-556-4376,WuSung@gustr.com
+Tom,Navrtil,7.84,7.41,0.4299999999999997,auralin,24u - 36u,32,Male,Navrtil,Bluff City,TN,37618.0,United States,1935-04-08,133.3,70,19.1,4870.0,Corbin Branch Road,423-538-4887,TomasNavratil@dayrep.com
+Johanna,Dreher,7.77,7.34,0.4299999999999997,auralin,51u - 59u,267,Female,Dreher,Whitesburg,KY,41858.0,United States,1948-10-06,187.0,61,35.3,3857.0,Straford Park,1 606 632 4327,JohannaDreher@superrito.com
+Brianna,Lansell,9.48,9.06,0.4199999999999999,auralin,39u - 47u,53,Female,Lansell,Urbandale,IA,50322.0,United States,1950-12-04,202.0,62,36.9,1389.0,Nutters Barn Lane,515-727-9324,BriannaLansell@fleckens.hu
+Kang,Mai,7.78,7.45,0.33,novodra,39u - 36u,255,Male,Mai,Pittsburgh,PA,15205.0,United States,1986-09-16,200.4,70,28.8,1109.0,Beechwood Drive,412-274-6756,KangMai@jourrapide.com
+Chen,Yao,7.9,7.51,0.3900000000000005,novodra,56u - 57u,84,Male,Yao,Dayton,OH,45407.0,United States,1975-11-08,214.7,76,26.1,2566.0,Ingram Street,937-523-1224,ChenYao@teleworm.us
+Aksel,Vestergaard,9.62,9.29,0.33,novodra,42u - 38u,239,Male,Vestergaard,Philadelphia,PA,19139.0,United States,1988-05-02,187.2,78,21.6,2246.0,Pheasant Ridge Road,215-528-2193,AkselHVestergaard@armyspy.com
+Ellen,Luman,9.27,8.77,0.5,novodra,40u - 39u,158,Female,Luman,Chilton,WI,53014.0,United States,1951-02-26,184.6,60,36.0,4643.0,Reeves Street,920-849-0384,EllenRLuman@einrot.com
+Albino,Schiavone,7.56,7.15,0.4099999999999992,auralin,35u - 43u,296,Male,Schiavone,Sacramento,CA,95814.0,United States,1928-06-30,180.0,67,28.2,3113.0,Timber Ridge Road,1 916 817 9960,AlbinoSchiavone@fleckens.hu
+Jose,Combs,7.89,7.42,0.4699999999999997,novodra,39u - 36u,139,Male,Combs,Richmond,VA,23220.0,United States,1975-12-27,171.2,74,22.0,718.0,Eden Drive,804-908-1436,JoseRCombs@rhyta.com
+Jia Li,Teng,7.66,7.32,0.3399999999999998,auralin,48u - 54u,452,Female,Teng,Upland,CA,91786.0,United States,1928-12-07,202.2,66,32.6,1251.0,Clarence Court,1 909 982 4264,JiaLiTeng@fleckens.hu
+Ilija,Horvat,7.77,7.38,0.3899999999999997,auralin,42u - 50u,399,Male,Horvat,Cave Spring,GA,30124.0,United States,1941-01-21,193.8,72,26.3,4380.0,Riverside Drive,+1 (706) 777-4981,IlijaHorvat@dayrep.com
+Mathilde,Nrgaard,8.5,8.1,0.4000000000000003,novodra,27u - 28u,343,Female,Nrgaard,Hartford,CT,6182.0,United States,1985-01-21,127.2,61,24.0,846.0,Copperhead Road,1 860 618 4560,MathildeDNrgaard@superrito.com
+Csilla,Herczegh,7.71,7.27,0.4400000000000004,novodra,43u - 46u,330,Female,Herczegh,Tampa,FL,33624.0,United States,1940-06-14,172.7,66,27.9,149.0,Marion Drive,1 813 434 8122,HerczeghCsilla@jourrapide.com
+Aaliyah,Rice,7.64,7.33,0.3099999999999996,novodra,31u - 31u,405,Female,Rice,Texas City,TX,77591.0,United States,1936-07-14,123.0,65,20.5,4237.0,Hamilton Drive,409-944-6516,AaliyahRice@dayrep.com
+Caroline,Shuler,7.63,7.27,0.3600000000000003,novodra,50u - 54u,92,Female,Shuler,Houston,TX,77002.0,United States,1949-03-08,218.7,66,35.3,1403.0,Clousson Road,713-230-1739,CarolineTShuler@jourrapide.com
+Caroline,Shuler,7.63,7.27,0.3600000000000003,novodra,50u - 54u,116,Female,Bois,Lakeport,CA,95453.0,United States,1985-12-26,151.4,64,26.0,1350.0,Meadow Lane,1 707 262 6503,CarolineBois@rhyta.com
+Alex,Crawford,7.69,7.3,0.3900000000000005,auralin,51u - 62u,277,Male,Crawford,Hope,ID,83836.0,United States,1924-07-07,223.1,70,32.0,373.0,Fantages Way,+1 (208) 264-9063,AlexCrawford@dayrep.com
+Chukwumoge,Ogochukwu,7.95,7.56,0.3900000000000005,novodra,41u - 39u,365,Female,Ogochukwu,Sherman Oaks,CA,91403.0,United States,1960-09-16,212.3,75,26.5,4704.0,Edsel Road,818-372-7106,ChukwumogeOgochukwu@teleworm.us
+Fearne,Mcgregor,7.83,7.48,0.3499999999999996,novodra,27u - 29u,453,Female,McGregor,Harrisburg,PA,17111.0,United States,1936-06-30,142.1,65,23.6,1168.0,Stout Street,717-368-8321,FearneMcGregor@superrito.com
+Ursula,Freud,7.75,7.46,0.29,auralin,42u - 54u,290,Female,Freud,Kenner,LA,70065.0,United States,1943-08-04,170.1,64,29.2,3538.0,Paul Wayne Haggerty Road,504-441-7744,UrsulaFreud@cuvox.de
+Leon,Scholz,7.72,7.29,0.4299999999999997,novodra,38u - 32u,332,Male,Scholz,Irvine,CA,92618.0,United States,1989-09-14,150.9,70,21.6,3106.0,Evergreen Lane,1 323 635 9919,LeonScholz@fleckens.hu
+Hiromu,Horikawa,7.77,7.28,0.4899999999999993,novodra,47u - 46u,440,Male,Horikawa,Des Moines,IA,50309.0,United States,1981-07-07,242.0,70,34.7,4567.0,Hazelwood Avenue,1 515 362 6574,HiromuHorikawa@superrito.com
+Mika,Martinsson,7.5,7.17,0.33,auralin,34u - 43u,489,Male,Martinsson,Ocala,FL,34471.0,United States,1970-01-27,165.0,67,25.8,962.0,George Street,352-453-4601,MikaMartinsson@armyspy.com
+Leo,Vieira,7.74,7.36,0.3799999999999999,novodra,30u - 33u,76,Male,Mancini,Fremont,CA,94538.0,United States,1964-09-26,195.1,68,29.7,1813.0,Lindale Avenue,+1 (510) 498-6624,LeoMancini@rhyta.com
+Leo,Vieira,7.74,7.36,0.3799999999999999,novodra,30u - 33u,434,Male,Vieira,Pittsburgh,PA,15215.0,United States,1975-03-09,154.4,71,21.5,4894.0,Chandler Hollow Road,412-449-0733,LeoDVieira@cuvox.de
+Steven,Roy,7.87,7.43,0.4400000000000004,novodra,41u - 43u,394,Male,Roy,Reston,VA,22070.0,United States,1975-09-19,162.4,72,22.0,2816.0,Ashford Drive,1 703 716 8652,StevenBRoy@rhyta.com
+Kate,Wilkinson,7.72,7.2,0.5199999999999996,auralin,36u - 39u,474,Female,Wilkinson,South Boston,MA,2127.0,United States,1998-07-18,175.3,65,29.2,664.0,Lyon Avenue,1 508 905 2371,KateWilkinson@armyspy.com
+Naja,Enoksen,7.98,7.59,0.3900000000000005,auralin,43u - 50u,37,Female,Enoksen,Eau Claire,WI,54701.0,United States,1931-11-26,156.4,66,25.2,2915.0,Lynn Avenue,715-562-7013,NajaEnoksen@fleckens.hu
+Albina,Zetticci,7.93,7.73,0.1999999999999993,auralin,45u - 51u,197,Female,Zetticci,Austin,TX,78702.0,United States,1983-05-13,171.6,63,30.4,3141.0,Brentwood Drive,512-738-2609,AlbinaZetticci@teleworm.us
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,141,Male,Teichelmann,Decatur,IL,62522.0,United States,1958-12-03,214.1,72,29.0,631.0,Isaacs Creek Road,217-421-0935,JohnTeichelmann@dayrep.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,154,Male,Carreiro,Reno,NV,89509.0,United States,1976-04-08,177.8,68,27.0,1463.0,Martha Ellen Drive,1 775 770 7827,JohnACarreiro@superrito.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,216,Male,Doe,New York,NY,12345.0,United States,1975-01-01,180.0,72,24.4,123.0,Main Street,1234567890,johndoe@email.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,230,Male,Doe,New York,NY,12345.0,United States,1975-01-01,180.0,72,24.4,123.0,Main Street,1234567890,johndoe@email.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,238,Male,Doe,New York,NY,12345.0,United States,1975-01-01,180.0,72,24.4,123.0,Main Street,1234567890,johndoe@email.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,243,Male,OBrian,,,,,1957-02-25,205.3,74,26.4,,,,
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,245,Male,Doe,New York,NY,12345.0,United States,1975-01-01,180.0,72,24.4,123.0,Main Street,1234567890,johndoe@email.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,252,Male,Doe,New York,NY,12345.0,United States,1975-01-01,180.0,72,24.4,123.0,Main Street,1234567890,johndoe@email.com
+John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49u - 49u,278,Male,Doe,New York,NY,12345.0,United States,1975-01-01,180.0,72,24.4,123.0,Main Street,1234567890,johndoe@email.com
+Mathea,Lilleb,9.04,8.67,0.3699999999999992,auralin,23u - 36u,308,Female,Lilleb,Gulfport,MS,39501.0,United States,1928-11-30,112.4,65,18.7,4168.0,Coventry Court,228-237-2271,MatheaLilleb@fleckens.hu
+Vallie,Prince,7.64,7.28,0.3599999999999994,auralin,31u - 38u,388,Female,Prince,Fort Lauderdale,FL,33301.0,United States,1998-01-16,152.7,67,23.9,550.0,Mulberry Lane,561-826-5683,VallieSPrince@cuvox.de
+Samel,Gubrandsson,8.0,7.64,0.3600000000000003,auralin,53u - 56u,22,Male,Gubrandsson,Elmsford,NJ,10523.0,United States,1983-04-12,223.7,69,33.0,1904.0,Granville Lane,973-445-5341,SamuelGubrandsson@teleworm.us
+Joka,Resanovi,7.56,7.22,0.3399999999999998,auralin,22u - 30u,468,Female,Resanovi,Redding,CA,96001.0,United States,1959-10-05,122.1,63,21.6,1557.0,Byers Lane,530-773-9263,JozkaResanovic@superrito.com
+Inunnguaq,Heilmann,7.85,7.45,0.3999999999999994,auralin,57u - 67u,107,Male,Heilmann,New Castle,IN,47362.0,United States,1976-05-06,219.9,67,34.4,4110.0,Capitol Avenue,1 765 599 8847,InunnguaqHeilmann@rhyta.com
+Alwin,Svensson,7.78,7.34,0.4400000000000004,auralin,36u - 39u,438,Male,Svensson,Union Grove,WI,53182.0,United States,1924-11-02,137.7,63,24.4,1846.0,Joseph Street,+1 (262) 878-9576,AlwinSvensson@armyspy.com
+Th,Lng,7.64,7.22,0.4199999999999999,novodra,61u - 64u,198,Male,Lng,Gaylord,MI,49735.0,United States,1967-11-15,223.1,70,32.0,2403.0,Ripple Street,1 989 705 7690,LuongKhacThe@dayrep.com
+Amanda,Ribeiro,7.85,7.47,0.3799999999999999,auralin,36u - 44u,144,Female,Ribeiro,Seattle,WA,98109.0,United States,1970-09-27,131.1,60,25.6,4155.0,Raccoon Run,206-902-0473,AmandaCavalcantiRibeiro@fleckens.hu
+Meya,Sjberg,7.77,7.42,0.3499999999999996,novodra,42u - 42u,247,Female,Sjberg,Santa Ana,CA,92704.0,United States,1968-05-15,232.1,66,37.5,1233.0,Liberty Avenue,714-431-2746,MeyaSjoberg@cuvox.de
+Sara,Miles,7.53,7.12,0.4100000000000001,auralin,30u - 35u,260,Female,Miles,Tampa,FL,33610.0,United States,1982-03-27,166.5,61,31.5,4223.0,Chestnut Street,727-439-7150,SaraDMiles@gustr.com
+Sara,Miles,7.53,7.12,0.4100000000000001,auralin,30u - 35u,326,Female,Karjalainen,Chicago,IL,60601.0,United States,1946-08-20,172.5,63,30.6,720.0,Tator Patch Road,1 312 856 6826,SaraKarjalainen@armyspy.com
+Frydryk,Adamski,7.75,7.27,0.4800000000000004,auralin,63u - 74u,122,Male,Adamski,Syracuse,NY,13221.0,United States,1941-10-12,230.8,76,28.1,1845.0,Saint Marys Avenue,1 315 869 4408,FrydrykAdamski@armyspy.com
+Jane,Citizen,7.98,7.6,0.3800000000000008,novodra,37u - 38u,187,Female,Citizen,Providence,RI,2908.0,United States,1974-09-27,143.0,65,23.8,2866.0,Myra Street,+1 (401) 485-6384,JaneCitizen@cuvox.de
+Angela,Lavrentyev,7.61,7.14,0.4700000000000006,novodra,28u - 24u,234,Female,Lavrentyev,New Orleans,LA,70112.0,United States,1995-07-21,155.3,61,29.3,4143.0,Big Indian,504-546-5321,AngelaLavrentyev@gustr.com
+Edelma,Villalpando,7.99,7.56,0.4300000000000006,novodra,24u - 26u,479,Female,Villalpando,San Jose,CA,95134.0,United States,1977-06-24,109.6,63,19.4,312.0,Jim Rosa Lane,+1 (415) 755-6435,EdelmaVillalpandoSantillan@teleworm.us
+Gabriela,Michalkov,8.37,7.97,0.3999999999999994,auralin,26u - 36u,215,Female,Michalkov,Hartford,VT,5047.0,United States,1964-10-08,126.9,65,21.1,383.0,Marion Street,+1 (802) 952-6490,GabrielaMichalcikova@rhyta.com
+Annika,Vaara,7.73,7.34,0.3900000000000005,novodra,20u - 21u,49,Female,Vaara,Lombard,IL,60148.0,United States,1996-02-20,109.1,67,17.1,4853.0,University Drive,312-719-7238,AnnikaVaara@rhyta.com
+Bernarda,Cindri,7.89,7.55,0.3399999999999998,auralin,40u - 49u,268,Female,Cindri,Salina,KS,67401.0,United States,1986-01-16,145.6,61,27.5,1753.0,Sherman Street,+1 (785) 823-6728,BernardaCindric@teleworm.us
+Chiho,Higa,7.71,7.3,0.4100000000000001,novodra,46u - 46u,356,Female,Higa,Providence,RI,2905.0,United States,1935-05-25,182.6,59,36.9,4500.0,Myra Street,401-456-2797,ChihoHiga@teleworm.us
+Dani,Antoun,7.73,7.34,0.3900000000000005,auralin,36u - 44u,417,Male,Antoun,Westbury,NY,11590.0,United States,1928-05-07,138.6,70,19.9,2595.0,Feathers Hooves Drive,631-664-4813,DaniMuhsinAntoun@armyspy.com
+Mijael,Guerra,7.85,7.46,0.3899999999999997,auralin,37u - 47u,221,Male,Guerra,Oakland,CA,94612.0,United States,1944-01-25,183.5,65,30.5,1271.0,Pretty View Lane,+1 (707) 896-9250,MijaelGuerraMoreno@teleworm.us
+Emma,Barlow,7.85,7.39,0.4599999999999999,auralin,48u - 57u,138,Female,Barlow,Pompano Beach,FL,33062.0,United States,1953-01-25,175.6,60,34.3,1703.0,Everette Alley,954-784-6658,EmmaBarlow@superrito.com
+Flavia,Fiorentino,7.95,7.6,0.3500000000000005,auralin,46u - 57u,270,Female,Fiorentino,,,,,1937-10-09,175.2,61,33.1,,,,
+Noe,Aranda,7.51,7.17,0.3399999999999998,auralin,26u - 34u,52,Female,Aranda,Davenport,IL,52801.0,United States,1938-08-07,107.1,63,19.0,3977.0,Jail Drive,1 309 912 9553,NoeArandaGranado@dayrep.com
+Seweryna,Czerwinska,7.66,7.3,0.3600000000000003,auralin,39u - 46u,126,Female,Czerwinska,Tulsa,OK,74119.0,United States,1982-06-30,203.5,63,36.0,36.0,Heather Sees Way,918-714-7543,SewerynaCzerwinska@jourrapide.com
+Beatrycze,Woniak,7.54,7.17,0.3700000000000001,novodra,26u - 27u,208,Female,Woniak,Saginaw,MI,48607.0,United States,1946-03-14,119.2,61,22.5,182.0,Cross Street,989-936-4563,BeatryczeWozniak@armyspy.com
+Miosaw,Winiewski,7.51,7.08,0.4299999999999997,novodra,34u - 33u,373,Male,Winiewski,Collinsville,IL,62234.0,United States,1979-11-13,149.2,68,22.7,796.0,Eagle Street,618-346-3914,MiloslawWisniewski@rhyta.com
+La,Hrafnsdttir,7.6,7.09,0.5099999999999998,auralin,22u - 31u,339,Female,Hrafnsdttir,Metairie,LA,70001.0,United States,1925-04-30,114.1,67,17.9,3417.0,Bassel Street,+1 (985) 335-8662,LoaHrafnsdottir@jourrapide.com
+Siebrigje,Koldenhof,7.9,7.59,0.3100000000000005,auralin,30u - 38u,58,Female,Koldenhof,La Mesa,CA,91941.0,United States,1935-05-24,134.0,60,26.2,34.0,Hamill Avenue,858-413-3163,SiebrigjeKoldenhof@rhyta.com
+Firenze,Fodor,7.89,7.55,0.3399999999999998,novodra,30u - 35u,63,Female,Fodor,Belmont,MA,2178.0,United States,1943-04-01,131.1,60,25.6,1786.0,Gerald L. Bates Drive,617-883-5967,FodorFirenze@dayrep.com
+Zoe,Wellish,7.71,7.3,0.4100000000000001,novodra,33u - 33u,1,Female,Wellish,Rancho California,CA,92390.0,United States,1976-07-10,121.7,66,19.6,576.0,Brown Bear Drive,951-719-9170,ZoeWellish@superrito.com
+Una,Traustadttir,8.0,7.5,0.5,novodra,35u - 34u,291,Female,Traustadttir,Bedford,MA,1730.0,United States,1930-02-01,152.3,59,30.8,1027.0,Tenmile Road,781-739-0244,UnaTraustadottir@armyspy.com
+Lubo,Pecha,7.79,7.45,0.3399999999999998,novodra,30u - 27u,363,Male,Pecha,Norfolk,VA,23510.0,United States,1936-01-24,132.2,69,19.5,1510.0,Allison Avenue,757-624-1525,LubosPecha@rhyta.com
+Trifon,Izmailov,7.68,7.28,0.3999999999999994,auralin,58u - 63u,486,Male,Izmailov,Fort Walton Beach,FL,32548.0,United States,1973-02-15,255.9,74,32.9,3697.0,Drainer Avenue,1 850 659 0417,TrifonIzmailov@fleckens.hu
+Galit,Casrez,7.91,7.56,0.3500000000000005,auralin,27u - 37u,169,Female,Casrez,Palo Alto,CA,94306.0,United States,1956-05-12,118.8,67,18.6,513.0,Duck Creek Road,650-849-6900,GalitCasarezBrito@jourrapide.com
+Kifle,Mustafa,7.8,7.41,0.3899999999999997,auralin,42u - 50u,201,Male,Mustafa,Pennsauken,NJ,8110.0,United States,1965-10-09,186.1,69,27.5,4535.0,Prospect Street,856-655-5415,KifleMustafa@gustr.com
+Meaza,Brhane,7.7,7.36,0.3399999999999998,novodra,37u - 41u,465,Female,Brhane,Springville,AL,35146.0,United States,1991-06-22,161.3,69,23.8,142.0,Broad Street,205-467-9279,MeazaBrhane@superrito.com
+Adlan,Shishani,7.84,7.37,0.4699999999999997,novodra,43u - 40u,421,Male,Shishani,Manhattan,NY,10018.0,United States,1940-05-23,200.9,69,29.7,4890.0,Abia Martin Drive,631-479-8171,AdlanShishani@gustr.com
+Alvin,Jackson,7.62,7.23,0.3899999999999997,auralin,38u - 43u,173,Male,Jackson,Iowa City,IA,52240.0,United States,1945-12-01,177.8,71,24.8,3411.0,Pyramid Valley Road,319-541-3295,AlvinAJackson@armyspy.com
+Chibuzo,Okoli,7.64,7.29,0.3499999999999996,auralin,28u - 33u,159,Male,Okoli,Tulsa,OK,74136.0,United States,1983-06-14,142.8,73,18.8,4291.0,Patton Lane,+1 (918) 971-5864,ChibuzoOkoli@einrot.com
+Guni,Heimisson,7.64,7.24,0.3999999999999994,novodra,40u - 36u,463,Male,Heimisson,Los Angeles,CA,90007.0,United States,1983-11-28,154.9,71,21.6,430.0,Canis Heights Drive,213-749-6958,GuniHeimisson@superrito.com
+Maryam,Dratchev,9.91,9.46,0.4499999999999993,auralin,37u - 45u,77,Female,Dratchev,Minneapolis,MN,55410.0,United States,1983-01-15,190.1,63,33.7,3314.0,Rocket Drive,612-925-3123,MaryamDratchev@superrito.com
+Eufemio,Rosario,7.54,7.26,0.2800000000000002,novodra,37u - 40u,81,Male,Rosario,Westbury,NY,11590.0,United States,1923-02-28,183.7,71,25.6,2531.0,Cantebury Drive,+1 (646) 621-0640,EufemioRosarioAlarcon@gustr.com
+Dalmacia,Madrid,7.67,7.21,0.4599999999999999,novodra,26u - 23u,322,Female,Madrid,New Orleans,LA,70112.0,United States,1960-02-02,118.4,68,18.0,4784.0,Paul Wayne Haggerty Road,1 504 403 4615,DalmaciaMadridValenzuela@einrot.com
+Daimy,Tromp,9.41,8.94,0.4700000000000006,novodra,40u - 45u,392,Male,Tromp,Sunrise,FL,33323.0,United States,1990-05-23,198.0,75,24.7,522.0,Lamberts Branch Road,786-970-4206,DaimyTromp@superrito.com
+Hans Peter,Radislav,7.6,7.2,0.3999999999999994,auralin,42u - 53u,362,Male,Radislav,El Paso,TX,79905.0,United States,1973-10-28,169.0,70,24.2,208.0,Birch  Street,915-612-1462,HansPeterRadislav@gustr.com
+Jeremy,Montagu,7.68,7.36,0.3199999999999994,novodra,52u - 52u,262,Male,Montagu,Boston,MA,2110.0,United States,1982-06-23,192.7,74,24.7,4988.0,Lynn Street,617-297-0387,JeremyMontagu@teleworm.us
+tefanija,Novosel,7.64,7.17,0.4699999999999997,auralin,37u - 42u,412,Female,Novosel,Albany,NY,12207.0,United States,1945-11-29,154.9,61,29.3,1810.0,Hardesty Street,1 518 487 4865,StefanijaNovosel@teleworm.us
+Regolo,Nucci,7.53,7.02,0.5100000000000007,auralin,51u - 59u,191,Male,Nucci,Gibsonia,PA,15044.0,United States,1935-09-15,213.0,67,33.4,3595.0,Stuart Street,+1 (724) 449-6928,RegoloNucci@einrot.com
+Nebechi,Ekechukwu,7.78,7.39,0.3900000000000005,novodra,37u - 39u,68,Male,Ekechukwu,Marlboro,MA,1752.0,United States,1945-01-11,154.9,64,26.6,2418.0,Smith Street,508-804-4850,NebechiEkechukwu@teleworm.us
+Satsita,Batukayev,7.63,7.25,0.3799999999999999,novodra,42u - 42u,152,Female,Batukayev,Citrus Heights,CA,95610.0,United States,1953-02-17,219.6,66,35.4,2813.0,Frederick Street,916-224-7868,SatsitaBatukayev@teleworm.us
+Timothy,Cotton,7.92,7.52,0.4000000000000003,novodra,26u - 25u,431,Male,Cotton,Devils Lake,ND,58301.0,United States,1995-12-12,135.7,68,20.6,4243.0,Hidden Meadow Drive,701-662-1983,TimothyJCotton@dayrep.com
+Bjrnar,Nilsen,7.99,7.7,0.29,novodra,36u - 33u,450,Male,Nilsen,Philadelphia,PA,19121.0,United States,1960-04-26,152.5,68,23.2,2166.0,Tipple Road,+1 (215) 769-7116,BjrnarNilsen@einrot.com
+Vivien,Zsink,8.35,7.92,0.4299999999999997,auralin,30u - 38u,50,Female,Zsink,Maumee,OH,43537.0,United States,1974-03-06,113.3,64,19.4,4141.0,Davis Place,419-262-6953,ZsinkoVivien@teleworm.us
+Genet,Fesahaye,7.73,7.36,0.3700000000000001,auralin,25u - 35u,39,Female,Fesahaye,Westborough,MA,1581.0,United States,1954-01-11,111.8,67,17.5,4649.0,Joanne Lane,1 978 460 9060,GenetFesahaye@armyspy.com
+Borna,lezinger,7.55,7.18,0.3700000000000001,novodra,42u - 41u,194,Male,lezinger,West Haven,CT,6516.0,United States,1987-03-21,203.9,69,30.1,3073.0,Bedford Street,203-933-3979,BornaSlezinger@cuvox.de
+Mary,Adams,7.65,7.26,0.3900000000000005,novodra,32u - 33u,7,Female,Adams,Burbank,NV,84728.0,United States,1969-11-19,146.3,65,24.3,3145.0,Sheila Lane,775-533-5933,MaryBAdams@einrot.com
+Blanka,Jurkovi,7.77,7.33,0.4399999999999995,auralin,31u - 43u,45,Female,Jurkovi,Waterville,ME,4901.0,United States,1923-01-26,129.8,66,20.9,3165.0,Upton Avenue,1 207 861 4587,BlankaJurkovic@superrito.com
+Christopher,Woodward,7.51,7.06,0.4500000000000002,novodra,55u - 51u,153,Male,Woodward,New York,NY,10004.0,United States,1984-09-04,212.2,66,34.2,3450.0,Southern Street,+1 (516) 630-5900,ChristopherWoodward@jourrapide.com
+Maret,Sultygov,7.67,7.3,0.3700000000000001,novodra,26u - 23u,420,Female,Sultygov,Indianapolis,IN,46268.0,United States,1969-10-20,126.1,63,22.3,2127.0,Elk City Road,317-956-6166,MaretSultygov@teleworm.us
+Ella,Lund,7.57,7.21,0.3600000000000003,auralin,38u - 47u,27,Female,Lund,Peoria,IL,61602.0,United States,1933-12-19,144.8,61,27.4,1207.0,Garfield Road,309-671-8852,EllaLund@armyspy.com
+Fakhri,Fakhoury,7.83,7.39,0.4400000000000004,auralin,39u - 50u,42,Male,Fakhoury,Danube,MN,56230.0,United States,1979-11-04,143.0,66,23.1,155.0,Red Hawk Road,320-826-3340,FakhriHaniFakhoury@cuvox.de
+arka,Rap,7.54,7.15,0.3899999999999997,auralin,35u - 48u,74,Female,Rap,Foxboro,MA,2035.0,United States,1995-12-28,139.3,68,21.2,2661.0,Russell Street,978-969-6753,ZarkaRap@superrito.com
+Lixue,Hsueh,9.21,8.8,0.4100000000000001,novodra,22u - 23u,336,Female,Hsueh,Crawfordsville,IN,47933.0,United States,1925-03-29,102.7,59,20.7,1540.0,Overlook Drive,765-359-0147,LixueHsueh@dayrep.com
+Rovzan,Kishiev,7.75,7.41,0.3399999999999998,auralin,32u - 37u,380,Female,Kishiev,Sulphur,OK,73086.0,United States,1982-07-13,136.0,63,24.1,4220.0,Simpson Square,580-622-5674,RovzanKishiev@armyspy.com
+Jakob,Jakobsen,7.96,7.51,0.4500000000000002,novodra,28u - 26u,25,Male,Jakobsen,Port Jervis,NY,12771.0,United States,1985-08-01,155.8,67,24.4,648.0,Old Dear Lane,+1 (845) 858-7707,JakobCJakobsen@einrot.com
+Bernd,Schneider,7.74,7.44,0.2999999999999998,auralin,48u - 56u,100,Male,Schneider,Westbury,NY,11590.0,United States,1993-03-24,212.5,71,29.6,1262.0,Deans Lane,914-830-3940,BerndSchneider@jourrapide.com
+Berta,Napolitani,7.68,7.21,0.4699999999999997,novodra,42u - 44u,477,Female,Napolitani,Philadelphia,PA,19108.0,United States,1958-12-02,153.3,63,27.2,1815.0,Garrett Street,267-972-3749,BertaNapolitani@rhyta.com
+Armina,Sauv,7.86,7.4,0.4599999999999999,auralin,36u - 46u,422,Female,Sauv,Little Rock,AR,72210.0,United States,1928-10-08,165.0,61,31.2,4977.0,Arlington Avenue,870-270-5502,ArminaSauve@dayrep.com
